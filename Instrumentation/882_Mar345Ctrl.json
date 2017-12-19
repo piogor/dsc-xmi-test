@@ -1,0 +1,33 @@
+{
+    "882": {
+        "buses": [
+            "Data Socket"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Mar345Ctrl"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/882/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "Instrumentation"
+        ], 
+        "last_update": "2017-01-19 09:52:05.049327+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "Rayonix"
+        ], 
+        "name": "Mar345Ctrl", 
+        "products": [
+            "mar345"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/2D/Mar345Ctrl", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/882/update/", 
+        "updated_by_script": false
+    }
+}
