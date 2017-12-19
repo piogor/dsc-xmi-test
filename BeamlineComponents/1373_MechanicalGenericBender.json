@@ -1,0 +1,41 @@
+{
+    "1373": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "MechanicalGenericBender"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1373/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 97, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/BeamlineComponents/MechanicalGenericBender/MechanicalGenericBender.pdf"
+            }
+        ], 
+        "families": [
+            "BeamlineComponents"
+        ], 
+        "last_update": "2017-12-19 23:52:47.404271+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "MechanicalGenericBender", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/BeamlineComponents/Mirrors/MechanicalGenericBender", 
+        "status": "updated", 
+        "tag": "release_1_0_17", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1373/update/", 
+        "updated_by_script": true
+    }
+}
