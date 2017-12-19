@@ -1,0 +1,33 @@
+{
+    "1319": {
+        "buses": [
+            "VME"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "SIS3302Client"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1319/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-12-19 23:39:58.781377+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "SIS3302Client", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/1D/SIS3302Client", 
+        "status": "updated", 
+        "tag": "Release_1_6", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1319/update/", 
+        "updated_by_script": true
+    }
+}
