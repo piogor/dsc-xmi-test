@@ -1,0 +1,41 @@
+{
+    "876": {
+        "buses": [
+            "Socket"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "MaiaInterlock"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/876/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 43, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Acquisition/MaiaInterlock/MaiaInterlock.pdf"
+            }
+        ], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-01-28 02:40:10.641410+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "Brookhaven National Laboratory & Commonwealth Scientific and Industrial Research Organisation"
+        ], 
+        "name": "MaiaInterlock", 
+        "products": [
+            "Maia Detector"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/2D/MaiaInterlock", 
+        "status": "updated", 
+        "tag": "Release_1_1", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/876/update/", 
+        "updated_by_script": true
+    }
+}
