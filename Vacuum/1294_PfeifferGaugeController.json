@@ -1,0 +1,33 @@
+{
+    "1294": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "TPG300GaugeController"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1294/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "Vacuum"
+        ], 
+        "last_update": "2017-12-19 23:28:40.332624+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "PfeifferGaugeController", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Vacuum/PfeifferGaugeController", 
+        "status": "updated", 
+        "tag": "TPG300GaugeController_3_13", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1294/update/", 
+        "updated_by_script": true
+    }
+}
