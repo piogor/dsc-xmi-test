@@ -1,0 +1,41 @@
+{
+    "905": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "AbsorberController"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/905/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 85, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/BeamlineComponents/AbsorberController/AbsorberController.pdf"
+            }
+        ], 
+        "families": [
+            "Motion"
+        ], 
+        "last_update": "2017-01-28 03:01:25.903472+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "AbsorberController", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/BeamlineComponents/AbsorberController", 
+        "status": "updated", 
+        "tag": "Release_1_14", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/905/update/", 
+        "updated_by_script": true
+    }
+}
