@@ -1,0 +1,41 @@
+{
+    "925": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "MonoP04"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/925/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 112, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/BeamlineComponents/MonoP04/MonoP04.pdf"
+            }
+        ], 
+        "families": [
+            "Motion"
+        ], 
+        "last_update": "2017-01-28 03:09:30.163413+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "MonoP04", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/BeamlineComponents/Monochromators/MonoP04", 
+        "status": "updated", 
+        "tag": "Release_1_6", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/925/update/", 
+        "updated_by_script": true
+    }
+}
