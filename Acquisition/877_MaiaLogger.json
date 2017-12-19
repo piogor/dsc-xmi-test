@@ -1,0 +1,41 @@
+{
+    "877": {
+        "buses": [
+            "Data Socket"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "MaiaLogger"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/877/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 44, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Acquisition/MaiaLogger/MaiaLogger.pdf"
+            }
+        ], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-01-28 02:40:21.563016+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "Brookhaven National Laboratory & Commonwealth Scientific and Industrial Research Organisation"
+        ], 
+        "name": "MaiaLogger", 
+        "products": [
+            "Maia detector"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/2D/MaiaLogger", 
+        "status": "updated", 
+        "tag": "Release_1_1", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/877/update/", 
+        "updated_by_script": true
+    }
+}
