@@ -1,0 +1,33 @@
+{
+    "936": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Acs16"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/936/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Communication"
+        ], 
+        "last_update": "2017-01-28 03:26:27.666722+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "Avocent"
+        ], 
+        "name": "Acs16", 
+        "products": [
+            "acs16"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Communication/Acs16", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/936/update/", 
+        "updated_by_script": true
+    }
+}
