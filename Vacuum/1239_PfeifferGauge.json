@@ -1,0 +1,41 @@
+{
+    "1239": {
+        "buses": [
+            "Data Socket"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "PfeifferGauge"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1239/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 528, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Vacuum/PfeifferGauge/PfeifferGauge.pdf"
+            }
+        ], 
+        "families": [
+            "Vacuum"
+        ], 
+        "last_update": "2017-01-28 06:14:01.989461+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "Pfeiffer"
+        ], 
+        "name": "PfeifferGauge", 
+        "products": [
+            "TPG262 and TPG256A"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Vacuum/PfeifferGauge", 
+        "status": "updated", 
+        "tag": "Release_1_1", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1239/update/", 
+        "updated_by_script": true
+    }
+}
