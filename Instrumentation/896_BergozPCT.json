@@ -1,0 +1,33 @@
+{
+    "896": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "CurrentTransformer"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/896/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Instrumentation"
+        ], 
+        "last_update": "2017-01-28 02:54:37.757201+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "BergozPCT", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/BeamDiagnostics/BergozPCT", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/896/update/", 
+        "updated_by_script": true
+    }
+}
