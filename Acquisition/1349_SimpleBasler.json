@@ -1,0 +1,41 @@
+{
+    "1349": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "SimpleBasler"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1349/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 65, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Acquisition/SimpleBasler/SimpleBasler.pdf"
+            }
+        ], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-12-19 23:46:47.246291+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "SimpleBasler", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/2D/SimpleBasler", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1349/update/", 
+        "updated_by_script": true
+    }
+}
