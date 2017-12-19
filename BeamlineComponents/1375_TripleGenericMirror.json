@@ -1,0 +1,41 @@
+{
+    "1375": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "TripleGenericMirror"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1375/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 102, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/BeamlineComponents/TripleGenericMirror/TripleGenericMirror.pdf"
+            }
+        ], 
+        "families": [
+            "BeamlineComponents"
+        ], 
+        "last_update": "2017-12-19 23:53:37.624579+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "TripleGenericMirror", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/BeamlineComponents/Mirrors/TripleGenericMirror", 
+        "status": "updated", 
+        "tag": "SOLEIL_ROOT_RELEASE_5_5_6", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1375/update/", 
+        "updated_by_script": true
+    }
+}
