@@ -1,0 +1,41 @@
+{
+    "855": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "CCDPVCAM"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/855/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 22, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Acquisition/CCDPVCAM/CCDPVCAM.pdf"
+            }
+        ], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-01-28 02:32:29.985942+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "Roper Scientific"
+        ], 
+        "name": "CCDPVCAM", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/2D/CCDPVCAM", 
+        "status": "updated", 
+        "tag": "Release_1_19", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/855/update/", 
+        "updated_by_script": true
+    }
+}
