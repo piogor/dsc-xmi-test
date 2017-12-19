@@ -1,0 +1,33 @@
+{
+    "1367": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "LiberaSP"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1367/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "BeamDiagnostics"
+        ], 
+        "last_update": "2017-12-19 23:51:01.699120+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "Instrumentation Technologies"
+        ], 
+        "name": "i-tech-single-pass", 
+        "products": [
+            "Libera Brillance Single Pass"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/BeamDiagnostics/i-tech-single-pass", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1367/update/", 
+        "updated_by_script": true
+    }
+}
