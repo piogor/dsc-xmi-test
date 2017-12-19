@@ -1,0 +1,33 @@
+{
+    "1235": {
+        "buses": [
+            "Serial Line"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Tpg256a"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1235/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Vacuum"
+        ], 
+        "last_update": "2017-01-28 06:08:49.793132+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "Pfeiffer"
+        ], 
+        "name": "tpg256a", 
+        "products": [
+            "Tpg 256 a"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Vacuum/Elettra/tpg256a", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1235/update/", 
+        "updated_by_script": true
+    }
+}
