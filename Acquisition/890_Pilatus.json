@@ -1,0 +1,41 @@
+{
+    "890": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Pilatus"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/890/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 60, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Acquisition/Pilatus/Pilatus.pdf"
+            }
+        ], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-01-28 02:45:41.972218+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "Pilatus", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/2D/Pilatus", 
+        "status": "updated", 
+        "tag": "Release_2_17", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/890/update/", 
+        "updated_by_script": true
+    }
+}
