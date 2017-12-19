@@ -1,0 +1,41 @@
+{
+    "943": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "TangoOpcUaAccess"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/943/", 
+        "development_status": "new", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 142, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Communication/TangoOpcUaAccess/TangoOpcUaAccess.pdf"
+            }
+        ], 
+        "families": [
+            "Miscellaneous"
+        ], 
+        "last_update": "2017-01-28 03:32:38.335704+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "TangoOpcUaAccess", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Communication/OPCUA/TangoOpcUaAccess", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/943/update/", 
+        "updated_by_script": true
+    }
+}
