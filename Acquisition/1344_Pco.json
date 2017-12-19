@@ -1,0 +1,41 @@
+{
+    "1344": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Pco"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1344/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 56, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Acquisition/Pco/Pco.pdf"
+            }
+        ], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-12-19 23:45:21.260111+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "Pco", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/2D/Pco", 
+        "status": "updated", 
+        "tag": "Release_1_0", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1344/update/", 
+        "updated_by_script": true
+    }
+}
