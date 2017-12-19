@@ -1,0 +1,41 @@
+{
+    "1343": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "ImgAnalogGrabber"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1343/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 53, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Acquisition/ImgAnalogGrabber/ImgAnalogGrabber.pdf"
+            }
+        ], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-12-19 23:44:59.687185+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "ImgAnalogGrabber", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/2D/NI/ImgAnalogGrabber", 
+        "status": "updated", 
+        "tag": "release_2_1_2", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1343/update/", 
+        "updated_by_script": true
+    }
+}
