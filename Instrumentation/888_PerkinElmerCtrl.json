@@ -1,0 +1,41 @@
+{
+    "888": {
+        "buses": [
+            "Socket"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "PerkinElmerCtrl"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/888/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 58, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Acquisition/PerkinElmerCtrl/PerkinElmerCtrl.pdf"
+            }
+        ], 
+        "families": [
+            "Instrumentation"
+        ], 
+        "last_update": "2017-01-28 02:45:16.715019+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "Perkin Elmer"
+        ], 
+        "name": "PerkinElmerCtrl", 
+        "products": [
+            "XRD1621"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/2D/PerkinElmerCtrl", 
+        "status": "updated", 
+        "tag": "Release_1_7", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/888/update/", 
+        "updated_by_script": true
+    }
+}
