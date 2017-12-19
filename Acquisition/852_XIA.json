@@ -1,0 +1,33 @@
+{
+    "852": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "XIA"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/852/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-01-28 02:30:05.945751+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "XIA"
+        ], 
+        "name": "XIA", 
+        "products": [
+            "XIA"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/1D/XIA", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/852/update/", 
+        "updated_by_script": true
+    }
+}
