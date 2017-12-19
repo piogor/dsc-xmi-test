@@ -1,0 +1,33 @@
+{
+    "1368": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "LiberaPulsedBPM"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1368/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "BeamDiagnostics"
+        ], 
+        "last_update": "2017-12-19 23:51:08.072584+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "libera_pulsed", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/BeamDiagnostics/libera_pulsed", 
+        "status": "updated", 
+        "tag": "baseline-1_1_1", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1368/update/", 
+        "updated_by_script": true
+    }
+}
