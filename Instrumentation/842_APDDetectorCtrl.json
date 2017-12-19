@@ -1,0 +1,41 @@
+{
+    "842": {
+        "buses": [
+            "Socket"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "APDDetectorCtrl"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/842/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 4, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Acquisition/APDDetectorCtrl/APDDetectorCtrl.pdf"
+            }
+        ], 
+        "families": [
+            "Instrumentation"
+        ], 
+        "last_update": "2017-01-28 02:25:53.664836+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "FMB Oxford"
+        ], 
+        "name": "APDDetectorCtrl", 
+        "products": [
+            "ADP ACE Electronics"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/1D/APDDetectorCtrl", 
+        "status": "updated", 
+        "tag": "Release_1_3", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/842/update/", 
+        "updated_by_script": true
+    }
+}
