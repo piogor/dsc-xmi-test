@@ -1,0 +1,41 @@
+{
+    "919": {
+        "buses": [
+            "Serial Line"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "FMBOxfDCMEnergy"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/919/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 106, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/BeamlineComponents/FMBOxfDCMEnergy/FMBOxfDCMEnergy.pdf"
+            }
+        ], 
+        "families": [
+            "Motion"
+        ], 
+        "last_update": "2017-12-19 23:54:26.763496+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "FMBOxfDCMEnergy", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/BeamlineComponents/Monochromators/FMBOxfDCMEnergy", 
+        "status": "updated", 
+        "tag": "Release_3_1", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/919/update/", 
+        "updated_by_script": true
+    }
+}
