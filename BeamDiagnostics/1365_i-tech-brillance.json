@@ -1,0 +1,33 @@
+{
+    "1365": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Libera"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1365/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "BeamDiagnostics"
+        ], 
+        "last_update": "2017-12-19 23:50:43.443064+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "I-Tech"
+        ], 
+        "name": "i-tech-brillance", 
+        "products": [
+            "Libera Electron & Brillance"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/BeamDiagnostics/i-tech-brillance", 
+        "status": "updated", 
+        "tag": "release_1_3_0", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1365/update/", 
+        "updated_by_script": true
+    }
+}
