@@ -1,0 +1,33 @@
+{
+    "1351": {
+        "buses": [
+            "rr"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Falcon"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1351/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-12-19 23:47:18.385923+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "falcon", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/2D/falcon", 
+        "status": "updated", 
+        "tag": "baseline-1_1_1", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1351/update/", 
+        "updated_by_script": true
+    }
+}
