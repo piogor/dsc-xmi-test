@@ -1,0 +1,41 @@
+{
+    "1573": {
+        "buses": [
+            "Serial Line"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "VarianDualIP"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1573/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 534, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Vacuum/VarianDualIP/VarianDualIP.pdf"
+            }
+        ], 
+        "families": [
+            "Vacuum"
+        ], 
+        "last_update": "2017-01-28 06:17:13.884674+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "Varian"
+        ], 
+        "name": "VarianDualIP", 
+        "products": [
+            "Dual IP"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Vacuum/VarianDualIP", 
+        "status": "updated", 
+        "tag": "VarianDualIP-Release-2.4", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1573/update/", 
+        "updated_by_script": true
+    }
+}
