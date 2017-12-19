@@ -1,0 +1,41 @@
+{
+    "1289": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "MKSGaugeController"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1289/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 524, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Vacuum/MKSGaugeController/MKSGaugeController.pdf"
+            }
+        ], 
+        "families": [
+            "Vacuum"
+        ], 
+        "last_update": "2017-12-19 23:28:02.436046+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "MKSGaugeController", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Vacuum/MKSGaugeController", 
+        "status": "updated", 
+        "tag": "first", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1289/update/", 
+        "updated_by_script": true
+    }
+}
