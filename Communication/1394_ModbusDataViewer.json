@@ -1,0 +1,41 @@
+{
+    "1394": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "ModbusDataViewer"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1394/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 141, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Communication/ModbusDataViewer/ModbusDataViewer.pdf"
+            }
+        ], 
+        "families": [
+            "Communication"
+        ], 
+        "last_update": "2017-12-19 23:59:45.500111+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "ModbusDataViewer", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Communication/ModbusDataViewer", 
+        "status": "updated", 
+        "tag": "release_1_0_4", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1394/update/", 
+        "updated_by_script": true
+    }
+}
