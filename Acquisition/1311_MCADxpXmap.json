@@ -1,0 +1,41 @@
+{
+    "1311": {
+        "buses": [
+            "Compact PCI"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "MCADxpXmap"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1311/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 10, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Acquisition/MCADxpXmap/MCADxpXmap.pdf"
+            }
+        ], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-12-19 23:38:42.784806+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "XIA"
+        ], 
+        "name": "MCADxpXmap", 
+        "products": [
+            "Dxp-Xmap"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/1D/MCADxpXmap", 
+        "status": "updated", 
+        "tag": "release_2_1_2", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1311/update/", 
+        "updated_by_script": true
+    }
+}
