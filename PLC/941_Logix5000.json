@@ -1,0 +1,41 @@
+{
+    "941": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Logix5000"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/941/", 
+        "development_status": "new", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 139, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Communication/Logix5000/Logix5000.pdf"
+            }
+        ], 
+        "families": [
+            "PLC"
+        ], 
+        "last_update": "2017-01-28 03:30:51.734980+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "Logix5000", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Communication/Logix5000", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/941/update/", 
+        "updated_by_script": true
+    }
+}
