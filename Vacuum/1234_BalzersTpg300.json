@@ -1,0 +1,41 @@
+{
+    "1234": {
+        "buses": [
+            "Serial Line"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "BalzersTpg300"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1234/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 519, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Vacuum/BalzersTpg300/BalzersTpg300.pdf"
+            }
+        ], 
+        "families": [
+            "Vacuum"
+        ], 
+        "last_update": "2017-01-28 06:08:17.039385+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "Balzers"
+        ], 
+        "name": "BalzersTpg300", 
+        "products": [
+            "Tpg300"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Vacuum/BalzersTpg300", 
+        "status": "updated", 
+        "tag": "BalzersTpg300-Release-3.4", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1234/update/", 
+        "updated_by_script": true
+    }
+}
