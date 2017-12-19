@@ -1,0 +1,33 @@
+{
+    "930": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "AlbaLinacTomco"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/930/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Calculation"
+        ], 
+        "last_update": "2017-01-28 03:11:24.735887+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "AlbaLinacTomcoMonitor", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Calculation/AlbaLinacTomcoMonitor", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/930/update/", 
+        "updated_by_script": true
+    }
+}
