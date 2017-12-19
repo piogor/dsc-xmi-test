@@ -1,0 +1,41 @@
+{
+    "1347": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "ScientaAcquisition"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1347/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 64, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Acquisition/ScientaAcquisition/ScientaAcquisition.pdf"
+            }
+        ], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-12-19 23:46:34.691878+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "Scienta"
+        ], 
+        "name": "ScientaAcquisition", 
+        "products": [
+            "Scienta"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/2D/ScientaAcquisition", 
+        "status": "updated", 
+        "tag": "release_1_0_20", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1347/update/", 
+        "updated_by_script": true
+    }
+}
