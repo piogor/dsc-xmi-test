@@ -1,0 +1,41 @@
+{
+    "939": {
+        "buses": [
+            "GPIB"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "GpibDeviceServer"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/939/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 136, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Communication/GpibDeviceServer/GpibDeviceServer.pdf"
+            }
+        ], 
+        "families": [
+            "Communication"
+        ], 
+        "last_update": "2017-01-28 03:29:03.979240+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "GpibDeviceServer", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Communication/GpibDeviceServer", 
+        "status": "updated", 
+        "tag": "Release_1_7", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/939/update/", 
+        "updated_by_script": true
+    }
+}
