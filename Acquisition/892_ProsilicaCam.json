@@ -1,0 +1,41 @@
+{
+    "892": {
+        "buses": [
+            "FireWire"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "ProsilicaCam"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/892/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 62, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Acquisition/ProsilicaCam/ProsilicaCam.pdf"
+            }
+        ], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-01-28 02:46:34.061860+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "ProsilicaCam", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/2D/ProsilicaCam", 
+        "status": "updated", 
+        "tag": "Release_1_28", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/892/update/", 
+        "updated_by_script": true
+    }
+}
