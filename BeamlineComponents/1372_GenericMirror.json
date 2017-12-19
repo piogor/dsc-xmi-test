@@ -1,0 +1,41 @@
+{
+    "1372": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "GenericMirror"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1372/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 96, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/BeamlineComponents/GenericMirror/GenericMirror.pdf"
+            }
+        ], 
+        "families": [
+            "BeamlineComponents"
+        ], 
+        "last_update": "2017-12-19 23:52:33.220228+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "GenericMirror", 
+        "products": [
+            "Gener"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/BeamlineComponents/Mirrors/GenericMirror", 
+        "status": "updated", 
+        "tag": "release_1_3_2", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1372/update/", 
+        "updated_by_script": true
+    }
+}
