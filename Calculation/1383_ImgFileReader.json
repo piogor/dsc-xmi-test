@@ -1,0 +1,41 @@
+{
+    "1383": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "ImgFileReader"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1383/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 123, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Calculation/ImgFileReader/ImgFileReader.pdf"
+            }
+        ], 
+        "families": [
+            "Calculation"
+        ], 
+        "last_update": "2017-12-19 23:57:17.835426+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "ImgFileReader", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Calculation/ImgFileReader", 
+        "status": "updated", 
+        "tag": "release_1_3_1", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1383/update/", 
+        "updated_by_script": true
+    }
+}
