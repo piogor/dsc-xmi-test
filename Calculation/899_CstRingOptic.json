@@ -1,0 +1,41 @@
+{
+    "899": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "CstRingOptic"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/899/", 
+        "development_status": "new", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 73, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/BeamDiagnostics/CstRingOptic/CstRingOptic.pdf"
+            }
+        ], 
+        "families": [
+            "Calculation"
+        ], 
+        "last_update": "2017-01-28 02:54:59.647572+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "CstRingOptic", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/BeamDiagnostics/EsrfBeamOptic/CstRingOptic", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/899/update/", 
+        "updated_by_script": true
+    }
+}
