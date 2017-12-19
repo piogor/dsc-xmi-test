@@ -1,0 +1,41 @@
+{
+    "916": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "CDCMEnergy"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/916/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 103, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/BeamlineComponents/CDCMEnergy/CDCMEnergy.pdf"
+            }
+        ], 
+        "families": [
+            "BeamlineComponents"
+        ], 
+        "last_update": "2017-01-28 03:07:21.616678+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "CDCMEnergy", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/BeamlineComponents/Monochromators/CDCMEnergy", 
+        "status": "updated", 
+        "tag": "Release_1_0", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/916/update/", 
+        "updated_by_script": true
+    }
+}
