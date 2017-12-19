@@ -1,0 +1,33 @@
+{
+    "839": {
+        "buses": [
+            "PCI Express"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "BMCM"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/839/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "AcceleratorComponents"
+        ], 
+        "last_update": "2017-01-28 02:24:00.981229+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "ESRF"
+        ], 
+        "name": "BmcmESRF", 
+        "products": [
+            "Dance"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/AcceleratorComponents/BmcmESRF", 
+        "status": "updated", 
+        "tag": "release-2.1", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/839/update/", 
+        "updated_by_script": true
+    }
+}
