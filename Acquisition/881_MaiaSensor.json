@@ -1,0 +1,41 @@
+{
+    "881": {
+        "buses": [
+            "Socket"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "MaiaSensor"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/881/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 48, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Acquisition/MaiaSensor/MaiaSensor.pdf"
+            }
+        ], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-01-28 02:41:07.581847+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "Brookhaven National Laboratory & Commonwealth Scientific and Industrial Research Organisation"
+        ], 
+        "name": "MaiaSensor", 
+        "products": [
+            "Maia Detector"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/2D/MaiaSensor", 
+        "status": "updated", 
+        "tag": "Release_1_2", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/881/update/", 
+        "updated_by_script": true
+    }
+}
