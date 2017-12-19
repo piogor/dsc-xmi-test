@@ -1,0 +1,33 @@
+{
+    "1338": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Ccd1394"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1338/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-12-19 23:42:09.962357+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "Ieee1394", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/2D/Ieee1394", 
+        "status": "updated", 
+        "tag": "Ccd1394-Release_1_2", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1338/update/", 
+        "updated_by_script": true
+    }
+}
