@@ -1,0 +1,41 @@
+{
+    "2252": {
+        "buses": [
+            "Data Socket"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Mythen2Detector"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2252/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 542, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Acquisition/Mythen2Detector/Mythen2Detector.pdf"
+            }
+        ], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-12-19 23:39:12.725011+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "DECTRIS"
+        ], 
+        "name": "Mythen2Detector", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/1D/Mythen2Detector", 
+        "status": "new", 
+        "tag": "release_1_2_0", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2252/update/", 
+        "updated_by_script": true
+    }
+}
