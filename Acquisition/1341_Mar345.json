@@ -1,0 +1,41 @@
+{
+    "1341": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Mar345"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1341/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 49, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Acquisition/Mar345/Mar345.pdf"
+            }
+        ], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-12-19 23:44:23.028020+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "Marresearch"
+        ], 
+        "name": "Mar345", 
+        "products": [
+            "Mar345"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/2D/Mar345", 
+        "status": "updated", 
+        "tag": "release_1_4_0", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1341/update/", 
+        "updated_by_script": true
+    }
+}
