@@ -1,0 +1,33 @@
+{
+    "1352": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Mar345"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1352/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-12-19 23:47:24.303704+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "MAR"
+        ], 
+        "name": "mar345direct", 
+        "products": [
+            "MAR345"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/2D/mar345direct", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1352/update/", 
+        "updated_by_script": true
+    }
+}
