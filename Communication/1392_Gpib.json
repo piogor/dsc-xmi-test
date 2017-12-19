@@ -1,0 +1,33 @@
+{
+    "1392": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "GpibDeviceServer"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1392/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "Communication"
+        ], 
+        "last_update": "2017-12-19 23:59:04.384729+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "Gpib", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Communication/Gpib", 
+        "status": "updated", 
+        "tag": "release_2_0", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1392/update/", 
+        "updated_by_script": true
+    }
+}
