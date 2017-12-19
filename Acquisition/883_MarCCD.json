@@ -1,0 +1,41 @@
+{
+    "883": {
+        "buses": [
+            "Data Socket"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "MarCCD"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/883/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 50, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Acquisition/MarCCD/MarCCD.pdf"
+            }
+        ], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-01-28 02:41:50.706023+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "Rayonix"
+        ], 
+        "name": "MarCCD", 
+        "products": [
+            "CCD SX165"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/2D/MarCCD", 
+        "status": "updated", 
+        "tag": "Release_1_5", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/883/update/", 
+        "updated_by_script": true
+    }
+}
