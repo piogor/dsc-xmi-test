@@ -1,0 +1,33 @@
+{
+    "1536": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "PowerSupply"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1536/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "StandardInterfaces"
+        ], 
+        "last_update": "2017-12-20 00:47:23.068512+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "Powersupply", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/StandardInterfaces/Powersupply", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1536/update/", 
+        "updated_by_script": true
+    }
+}
