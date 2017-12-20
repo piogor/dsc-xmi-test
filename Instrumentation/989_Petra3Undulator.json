@@ -1,0 +1,41 @@
+{
+    "989": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Petra3Undulator"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/989/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 215, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/MagneticDevices/Petra3Undulator/Petra3Undulator.pdf"
+            }
+        ], 
+        "families": [
+            "Instrumentation"
+        ], 
+        "last_update": "2017-01-28 04:05:14.766460+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "Petra3Undulator", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/MagneticDevices/Petra3Undulator", 
+        "status": "updated", 
+        "tag": "Release_1_47", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/989/update/", 
+        "updated_by_script": true
+    }
+}
