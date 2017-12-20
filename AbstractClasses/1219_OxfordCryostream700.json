@@ -1,0 +1,48 @@
+{
+    "1219": {
+        "buses": [
+            "Serial Line", 
+            "Serial Line", 
+            "Serial Line", 
+            "Serial Line"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "DeviceSerial", 
+            "OxfordCryostream700", 
+            "DeviceSerial", 
+            "OxfordCryostream700"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1219/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "AbstractClasses", 
+            "Temperature", 
+            "AbstractClasses", 
+            "Temperature"
+        ], 
+        "last_update": "2017-01-19 10:14:03.049139+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "none", 
+            "Oxford Cryosystems", 
+            "none", 
+            "Oxford Cryosystems"
+        ], 
+        "name": "OxfordCryostream700", 
+        "products": [
+            "", 
+            "700er Series Cryostream Cooler", 
+            "", 
+            "700er Series Cryostream Cooler"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Temperature/OxfordCryostream700", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1219/update/", 
+        "updated_by_script": false
+    }
+}
