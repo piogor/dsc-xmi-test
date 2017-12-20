@@ -1,0 +1,41 @@
+{
+    "979": {
+        "buses": [
+            "VME"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "TIP830u20"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/979/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 202, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/InputOutput/TIP830u20/TIP830u20.pdf"
+            }
+        ], 
+        "families": [
+            "InputOutput"
+        ], 
+        "last_update": "2017-12-20 00:08:46.592688+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "TIP830u20", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/InputOutput/TIP830u20", 
+        "status": "updated", 
+        "tag": "Release_1_6", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/979/update/", 
+        "updated_by_script": true
+    }
+}
