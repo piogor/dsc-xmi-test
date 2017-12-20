@@ -1,0 +1,41 @@
+{
+    "1089": {
+        "buses": [
+            "GPIB"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "PiezoPiGpibCtrl"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1089/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 325, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Motion/PiezoPiGpibCtrl/PiezoPiGpibCtrl.pdf"
+            }
+        ], 
+        "families": [
+            "Motion"
+        ], 
+        "last_update": "2017-01-28 04:43:49.805406+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "Physical Instruments"
+        ], 
+        "name": "PiezoPiGpibCtrl", 
+        "products": [
+            "Piezos"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/MotorControllers/PI/PiezoPiGpibCtrl", 
+        "status": "updated", 
+        "tag": "Release_1_4", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1089/update/", 
+        "updated_by_script": true
+    }
+}
