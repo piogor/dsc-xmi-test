@@ -1,0 +1,33 @@
+{
+    "1442": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "FemtoCurrentAmplifier"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1442/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "MeasureInstruments"
+        ], 
+        "last_update": "2017-12-20 00:13:36.562758+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "Femto", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/MeasureInstruments/Femto", 
+        "status": "updated", 
+        "tag": "release_1_5_0", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1442/update/", 
+        "updated_by_script": true
+    }
+}
