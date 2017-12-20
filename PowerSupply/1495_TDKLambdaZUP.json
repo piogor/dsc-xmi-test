@@ -1,0 +1,33 @@
+{
+    "1495": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "TDKLambda"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1495/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "PowerSupply"
+        ], 
+        "last_update": "2017-12-20 00:39:39.892586+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "TDKLambdaZUP", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/PowerSupply/TDKLambdaZUP", 
+        "status": "updated", 
+        "tag": "rtag", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1495/update/", 
+        "updated_by_script": true
+    }
+}
