@@ -1,0 +1,41 @@
+{
+    "1026": {
+        "buses": [
+            "Socket"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "RohdeSchwarzSMa"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1026/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 260, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/MeasureInstruments/RohdeSchwarzSMa/RohdeSchwarzSMa.pdf"
+            }
+        ], 
+        "families": [
+            "Instrumentation"
+        ], 
+        "last_update": "2017-01-28 04:23:21.527875+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "RohdeSchwarz"
+        ], 
+        "name": "RohdeSchwarzSMa", 
+        "products": [
+            "SMA 100A"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/MeasureInstruments/RohdeSchwarz/RohdeSchwarzSMa", 
+        "status": "updated", 
+        "tag": "Release_1_0", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1026/update/", 
+        "updated_by_script": true
+    }
+}
