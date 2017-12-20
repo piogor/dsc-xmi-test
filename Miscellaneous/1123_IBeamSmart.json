@@ -1,0 +1,41 @@
+{
+    "1123": {
+        "buses": [
+            "Serial Line"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "IBeamSmart"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1123/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 360, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/OtherInstruments/IBeamSmart/IBeamSmart.pdf"
+            }
+        ], 
+        "families": [
+            "Miscellaneous"
+        ], 
+        "last_update": "2017-01-28 04:54:10.815587+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "http://www.toptica.com/"
+        ], 
+        "name": "IBeamSmart", 
+        "products": [
+            "http://www.toptica.com/products/single-mode-diode-lasers/ibeam-smart/"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/OtherInstruments/IBeamSmart", 
+        "status": "updated", 
+        "tag": "Release_1_1", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1123/update/", 
+        "updated_by_script": true
+    }
+}
