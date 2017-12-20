@@ -1,0 +1,41 @@
+{
+    "1101": {
+        "buses": [
+            "TCP/UDP"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Standa8smc4usb"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1101/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 337, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Motion/Standa8smc4usb/Standa8smc4usb.pdf"
+            }
+        ], 
+        "families": [
+            "Motion"
+        ], 
+        "last_update": "2017-01-28 04:47:11.012847+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "Standa"
+        ], 
+        "name": "Standa8smc4usb", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/MotorControllers/Standa/Standa8smc4usb", 
+        "status": "updated", 
+        "tag": "release-1.0", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1101/update/", 
+        "updated_by_script": true
+    }
+}
