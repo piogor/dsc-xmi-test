@@ -1,0 +1,33 @@
+{
+    "1457": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "FixedPositions"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1457/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "Motion"
+        ], 
+        "last_update": "2017-12-20 00:20:15.508816+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "HexapodFMB", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/Hexapods/HexapodFMB", 
+        "status": "updated", 
+        "tag": "release_1_2_17", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1457/update/", 
+        "updated_by_script": true
+    }
+}
