@@ -1,0 +1,33 @@
+{
+    "1415": {
+        "buses": [
+            "Compact PCI"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "AIController"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1415/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "InputOutput"
+        ], 
+        "last_update": "2017-12-20 00:05:24.156585+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "ADLink"
+        ], 
+        "name": "AIControllerV2", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/InputOutput/ADLINK/AIControllerV2", 
+        "status": "updated", 
+        "tag": "release_2_6_0", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1415/update/", 
+        "updated_by_script": true
+    }
+}
