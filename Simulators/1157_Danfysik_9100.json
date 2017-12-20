@@ -1,0 +1,38 @@
+{
+    "1157": {
+        "buses": [
+            "Not Applicable", 
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Serial", 
+            "Danfysik"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1157/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Simulators", 
+            "PowerSupply"
+        ], 
+        "last_update": "2017-01-28 05:06:04.183682+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "none", 
+            "Danfysic"
+        ], 
+        "name": "Danfysik_9100", 
+        "products": [
+            "", 
+            "9100"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/PowerSupply/Danfysik_9100", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1157/update/", 
+        "updated_by_script": true
+    }
+}
