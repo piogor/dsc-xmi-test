@@ -1,0 +1,41 @@
+{
+    "1500": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Daresbury"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1500/", 
+        "development_status": "new", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 423, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Security/Daresbury/Daresbury.pdf"
+            }
+        ], 
+        "families": [
+            "Security"
+        ], 
+        "last_update": "2017-01-28 05:21:52.866623+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "ESRF"
+        ], 
+        "name": "Daresbury", 
+        "products": [
+            "REL1_0"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Security/Daresbury", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1500/update/", 
+        "updated_by_script": true
+    }
+}
