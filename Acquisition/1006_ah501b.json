@@ -1,0 +1,33 @@
+{
+    "1006": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "AH501B"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1006/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Acquisition"
+        ], 
+        "last_update": "2017-01-28 04:11:10.815329+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "Sincrotrone Trieste S.C.p.A."
+        ], 
+        "name": "ah501b", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/MeasureInstruments/Elettra/ah501b", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1006/update/", 
+        "updated_by_script": true
+    }
+}
