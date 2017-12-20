@@ -1,0 +1,41 @@
+{
+    "1155": {
+        "buses": [
+            "GPIB"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "AgilentTech667x"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1155/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 392, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/PowerSupply/AgilentTech667x/AgilentTech667x.pdf"
+            }
+        ], 
+        "families": [
+            "PowerSupply"
+        ], 
+        "last_update": "2017-01-28 05:02:26.722743+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "AgilentTechnologies"
+        ], 
+        "name": "AgilentTech667x", 
+        "products": [
+            "664xA, 665xA, 667xA, 668xA, and 669xA"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/PowerSupply/AgilentTech667x", 
+        "status": "updated", 
+        "tag": "Release_1_4", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1155/update/", 
+        "updated_by_script": true
+    }
+}
