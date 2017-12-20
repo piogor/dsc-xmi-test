@@ -1,0 +1,41 @@
+{
+    "997": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "IDS3010"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/997/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 224, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/MeasureInstruments/IDS3010/IDS3010.pdf"
+            }
+        ], 
+        "families": [
+            "Instrumentation"
+        ], 
+        "last_update": "2017-01-28 04:09:06.926180+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "IDS3010", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/MeasureInstruments/Attocube/IDS3010", 
+        "status": "updated", 
+        "tag": "release_2_1_0", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/997/update/", 
+        "updated_by_script": true
+    }
+}
