@@ -1,0 +1,33 @@
+{
+    "958": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "BNCCtrl"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/958/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "Controllers"
+        ], 
+        "last_update": "2017-01-28 03:38:54.639580+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "Berkeley Nucleonics Corp"
+        ], 
+        "name": "BNC575Ctrl", 
+        "products": [
+            "BNC 575"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/CounterTimer/BNC575Ctrl", 
+        "status": "updated", 
+        "tag": "Release_1_3", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/958/update/", 
+        "updated_by_script": true
+    }
+}
