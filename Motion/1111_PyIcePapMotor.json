@@ -1,0 +1,33 @@
+{
+    "1111": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "PyIcePAP"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1111/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Motion"
+        ], 
+        "last_update": "2017-01-28 04:50:19.726134+00:00", 
+        "last_update_method": "url", 
+        "license": "none", 
+        "manufacturers": [
+            "Solaris"
+        ], 
+        "name": "PyIcePapMotor", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/PyIcePapMotor", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1111/update/", 
+        "updated_by_script": true
+    }
+}
