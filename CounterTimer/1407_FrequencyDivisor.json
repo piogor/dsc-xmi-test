@@ -1,0 +1,41 @@
+{
+    "1407": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "FrequencyDivisor"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1407/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 165, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/CounterTimer/FrequencyDivisor/FrequencyDivisor.pdf"
+            }
+        ], 
+        "families": [
+            "CounterTimer"
+        ], 
+        "last_update": "2017-12-20 00:03:28.834639+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "FrequencyDivisor", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/CounterTimer/NI/FrequencyDivisor", 
+        "status": "updated", 
+        "tag": "release_1_0_9", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1407/update/", 
+        "updated_by_script": true
+    }
+}
