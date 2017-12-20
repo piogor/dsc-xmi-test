@@ -1,0 +1,33 @@
+{
+    "1519": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "ScanServer"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1519/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "SoftwareSystem"
+        ], 
+        "last_update": "2017-12-20 00:45:02.495321+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "ScanServerV2", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/SoftwareSystem/Sequencer/ScanServerV2", 
+        "status": "updated", 
+        "tag": "release_3_4_0", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1519/update/", 
+        "updated_by_script": true
+    }
+}
