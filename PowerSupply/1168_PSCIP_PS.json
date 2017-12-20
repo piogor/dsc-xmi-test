@@ -1,0 +1,33 @@
+{
+    "1168": {
+        "buses": [
+            "PCI"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "PSI_PC"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1168/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "PowerSupply"
+        ], 
+        "last_update": "2017-01-28 05:11:40.169865+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "OCEM"
+        ], 
+        "name": "PSCIP_PS", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/PowerSupply/PSCIP_PS", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1168/update/", 
+        "updated_by_script": true
+    }
+}
