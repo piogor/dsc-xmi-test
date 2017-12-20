@@ -1,0 +1,41 @@
+{
+    "1445": {
+        "buses": [
+            "GPIB"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "KChannelSwitch"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1445/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 236, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/MeasureInstruments/KChannelSwitch/KChannelSwitch.pdf"
+            }
+        ], 
+        "families": [
+            "MeasureInstruments"
+        ], 
+        "last_update": "2017-12-20 00:14:19.354115+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "Keithley"
+        ], 
+        "name": "KChannelSwitch", 
+        "products": [
+            "Switch System"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/MeasureInstruments/Keithley/KChannelSwitch", 
+        "status": "updated", 
+        "tag": "release_1_0_1", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1445/update/", 
+        "updated_by_script": true
+    }
+}
