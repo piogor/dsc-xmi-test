@@ -1,0 +1,33 @@
+{
+    "1501": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "PssZone"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1501/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "Security"
+        ], 
+        "last_update": "2017-12-20 00:41:35.448196+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "psszone", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Security/psszone", 
+        "status": "updated", 
+        "tag": "baseline-1", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1501/update/", 
+        "updated_by_script": true
+    }
+}
