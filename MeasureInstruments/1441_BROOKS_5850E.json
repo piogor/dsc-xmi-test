@@ -1,0 +1,33 @@
+{
+    "1441": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "MassFlowController"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1441/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "MeasureInstruments"
+        ], 
+        "last_update": "2017-12-20 00:12:20.780136+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "BROOKS_5850E", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/MeasureInstruments/BROOKS_5850E", 
+        "status": "updated", 
+        "tag": "release_1_0_4", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1441/update/", 
+        "updated_by_script": true
+    }
+}
