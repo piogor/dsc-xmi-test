@@ -1,0 +1,41 @@
+{
+    "1515": {
+        "buses": [
+            "Linux"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "ProcessProfiler"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1515/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 445, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/SoftwareSystem/ProcessProfiler/ProcessProfiler.pdf"
+            }
+        ], 
+        "families": [
+            "SoftwareSystem"
+        ], 
+        "last_update": "2017-12-20 00:44:12.212648+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "ProcessProfiler", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/SoftwareSystem/ProcessProfiler", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1515/update/", 
+        "updated_by_script": true
+    }
+}
