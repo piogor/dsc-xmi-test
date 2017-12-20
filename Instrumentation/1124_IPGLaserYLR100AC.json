@@ -1,0 +1,41 @@
+{
+    "1124": {
+        "buses": [
+            "Socket"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "IPGLaserYLR100AC"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1124/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 361, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/OtherInstruments/IPGLaserYLR100AC/IPGLaserYLR100AC.pdf"
+            }
+        ], 
+        "families": [
+            "Instrumentation"
+        ], 
+        "last_update": "2017-01-28 04:54:21.819478+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "IPG Laser"
+        ], 
+        "name": "IPGLaserYLR100AC", 
+        "products": [
+            "YLR-100-AC"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/OtherInstruments/IPGLaserYLR100AC", 
+        "status": "updated", 
+        "tag": "Release_1_4", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1124/update/", 
+        "updated_by_script": true
+    }
+}
