@@ -1,0 +1,41 @@
+{
+    "1550": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "PsImpl"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1550/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 514, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Training/PsImpl/PsImpl.pdf"
+            }
+        ], 
+        "families": [
+            "Training"
+        ], 
+        "last_update": "2017-12-20 00:52:43.835720+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "PsImpl", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Training/PsImpl", 
+        "status": "updated", 
+        "tag": "PsImpl_1", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1550/update/", 
+        "updated_by_script": true
+    }
+}
