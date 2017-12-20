@@ -1,0 +1,41 @@
+{
+    "970": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "ADWandlerWT"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/970/", 
+        "development_status": "new", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 186, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/InputOutput/ADWandlerWT/ADWandlerWT.pdf"
+            }
+        ], 
+        "families": [
+            "Instrumentation"
+        ], 
+        "last_update": "2017-01-28 03:52:55.073989+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "W&T"
+        ], 
+        "name": "ADWandlerWT", 
+        "products": [
+            "A/D Wandler"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/InputOutput/ADWandlerWT", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/970/update/", 
+        "updated_by_script": true
+    }
+}
