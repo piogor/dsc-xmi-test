@@ -1,0 +1,33 @@
+{
+    "1169": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "TdkGenesysPsDs"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1169/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "PowerSupply"
+        ], 
+        "last_update": "2017-01-28 05:15:52.648839+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "TDK-Lambda"
+        ], 
+        "name": "TdkGenesys", 
+        "products": [
+            "Genesys"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/PowerSupply/TdkGenesys", 
+        "status": "updated", 
+        "tag": "TdkGenesysPsDs-Release-1.5", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1169/update/", 
+        "updated_by_script": true
+    }
+}
