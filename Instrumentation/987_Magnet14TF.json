@@ -1,0 +1,41 @@
+{
+    "987": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Magnet14TF"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/987/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 212, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/MagneticDevices/Magnet14TF/Magnet14TF.pdf"
+            }
+        ], 
+        "families": [
+            "Instrumentation"
+        ], 
+        "last_update": "2017-01-28 04:04:02.967168+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "Magnet14TF", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/MagneticDevices/Magnet14TF", 
+        "status": "updated", 
+        "tag": "Release_1_9", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/987/update/", 
+        "updated_by_script": true
+    }
+}
