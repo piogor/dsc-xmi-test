@@ -1,0 +1,33 @@
+{
+    "968": {
+        "buses": [
+            "Compact PCI"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Cpci1150_ds"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/968/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Miscellaneous"
+        ], 
+        "last_update": "2017-01-28 03:46:48.634728+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "ADAS"
+        ], 
+        "name": "Cpci1150", 
+        "products": [
+            "CPCI 1150"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/InputOutput/ADAS/Cpci1150", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/968/update/", 
+        "updated_by_script": true
+    }
+}
