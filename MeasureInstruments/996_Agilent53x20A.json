@@ -1,0 +1,33 @@
+{
+    "996": {
+        "buses": [
+            "GPIB"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Agilent532x0A"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/996/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "MeasureInstruments"
+        ], 
+        "last_update": "2017-01-28 04:07:30.508677+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "Agilent"
+        ], 
+        "name": "Agilent53x20A", 
+        "products": [
+            "532x0A"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/MeasureInstruments/Agilent/Agilent53x20A", 
+        "status": "updated", 
+        "tag": "release_1_0_3", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/996/update/", 
+        "updated_by_script": true
+    }
+}
