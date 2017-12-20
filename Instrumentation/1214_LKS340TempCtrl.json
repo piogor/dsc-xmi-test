@@ -1,0 +1,41 @@
+{
+    "1214": {
+        "buses": [
+            "GPIB"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "LKS340TempCtrl"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1214/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 494, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Temperature/LKS340TempCtrl/LKS340TempCtrl.pdf"
+            }
+        ], 
+        "families": [
+            "Instrumentation"
+        ], 
+        "last_update": "2017-01-28 05:59:04.066562+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "LKS340TempCtrl", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Temperature/LKS340TempCtrl", 
+        "status": "updated", 
+        "tag": "Release_1_11", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1214/update/", 
+        "updated_by_script": true
+    }
+}
