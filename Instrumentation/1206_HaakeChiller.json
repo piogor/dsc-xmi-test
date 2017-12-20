@@ -1,0 +1,41 @@
+{
+    "1206": {
+        "buses": [
+            "Socket"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "HaakeChiller"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1206/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 486, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Temperature/HaakeChiller/HaakeChiller.pdf"
+            }
+        ], 
+        "families": [
+            "Instrumentation"
+        ], 
+        "last_update": "2017-01-28 05:57:32.869442+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "Haake"
+        ], 
+        "name": "HaakeChiller", 
+        "products": [
+            "Chiller F6 and N6"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Temperature/HaakeChiller", 
+        "status": "updated", 
+        "tag": "Release_1_4", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1206/update/", 
+        "updated_by_script": true
+    }
+}
