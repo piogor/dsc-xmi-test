@@ -1,0 +1,33 @@
+{
+    "947": {
+        "buses": [
+            "Serial Line"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Serial"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/947/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "Communication"
+        ], 
+        "last_update": "2017-01-28 03:35:55.001835+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "SerialLine", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Communication/SerialLine", 
+        "status": "updated", 
+        "tag": "release_1_2_12", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/947/update/", 
+        "updated_by_script": true
+    }
+}
