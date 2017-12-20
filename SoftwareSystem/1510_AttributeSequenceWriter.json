@@ -1,0 +1,41 @@
+{
+    "1510": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "AttributeSequenceWriter"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1510/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 435, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/SoftwareSystem/AttributeSequenceWriter/AttributeSequenceWriter.pdf"
+            }
+        ], 
+        "families": [
+            "SoftwareSystem"
+        ], 
+        "last_update": "2017-12-20 00:43:06.473079+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "AttributeSequenceWriter", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/SoftwareSystem/AttributeSequenceWriter", 
+        "status": "updated", 
+        "tag": "release_2_0_8", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1510/update/", 
+        "updated_by_script": true
+    }
+}
