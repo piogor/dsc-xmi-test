@@ -1,0 +1,41 @@
+{
+    "1115": {
+        "buses": [
+            "USB"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "VICITwoPosValve"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1115/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 352, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Motion/VICITwoPosValve/VICITwoPosValve.pdf"
+            }
+        ], 
+        "families": [
+            "Motion"
+        ], 
+        "last_update": "2017-01-28 04:52:25.849413+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "Valco Instruments Co. Inc."
+        ], 
+        "name": "VICITwoPosValve", 
+        "products": [
+            "Two Position Microelectronic Valve Actuator"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/VICITwoPosValve", 
+        "status": "updated", 
+        "tag": "Release_1_1", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1115/update/", 
+        "updated_by_script": true
+    }
+}
