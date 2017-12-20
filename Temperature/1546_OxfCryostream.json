@@ -1,0 +1,41 @@
+{
+    "1546": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "OxfCryostream"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1546/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 499, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Temperature/OxfCryostream/OxfCryostream.pdf"
+            }
+        ], 
+        "families": [
+            "Temperature"
+        ], 
+        "last_update": "2017-12-20 00:50:56.876738+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "Oxford Cryosystems"
+        ], 
+        "name": "OxfCryostream", 
+        "products": [
+            "Cryostream Cooler"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Temperature/OxfCryostream", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1546/update/", 
+        "updated_by_script": true
+    }
+}
