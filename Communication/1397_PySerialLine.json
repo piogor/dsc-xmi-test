@@ -1,0 +1,33 @@
+{
+    "1397": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "PySerial"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1397/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "Communication"
+        ], 
+        "last_update": "2017-12-20 00:00:32.457327+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "PySerialLine", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Communication/PySerialLine", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1397/update/", 
+        "updated_by_script": true
+    }
+}
