@@ -1,0 +1,41 @@
+{
+    "1224": {
+        "buses": [
+            "GPIB"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "ScI9700TempCtrl"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1224/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 506, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Temperature/ScI9700TempCtrl/ScI9700TempCtrl.pdf"
+            }
+        ], 
+        "families": [
+            "Temperature"
+        ], 
+        "last_update": "2017-01-28 06:04:02.817940+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "Scientific Instruments"
+        ], 
+        "name": "ScI9700TempCtrl", 
+        "products": [
+            "Temperature Controller"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Temperature/ScI9700TempCtrl", 
+        "status": "updated", 
+        "tag": "Release_1_0", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1224/update/", 
+        "updated_by_script": true
+    }
+}
