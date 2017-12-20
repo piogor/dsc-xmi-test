@@ -1,0 +1,33 @@
+{
+    "1432": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "TextTalker"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1432/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "InputOutput"
+        ], 
+        "last_update": "2017-12-20 00:09:46.348194+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "texttalker", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/InputOutput/texttalker", 
+        "status": "updated", 
+        "tag": "release_1_2_7", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1432/update/", 
+        "updated_by_script": true
+    }
+}
