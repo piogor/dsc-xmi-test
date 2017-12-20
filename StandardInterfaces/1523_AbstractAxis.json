@@ -1,0 +1,41 @@
+{
+    "1523": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "AbstractAxis"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1523/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 454, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/StandardInterfaces/AbstractAxis/AbstractAxis.pdf"
+            }
+        ], 
+        "families": [
+            "StandardInterfaces"
+        ], 
+        "last_update": "2017-12-20 00:45:34.384702+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "AbstractAxis", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/StandardInterfaces/AbstractAxis", 
+        "status": "updated", 
+        "tag": "v0", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1523/update/", 
+        "updated_by_script": true
+    }
+}
