@@ -1,0 +1,41 @@
+{
+    "1143": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "PiLCTriggerGenerator"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1143/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 380, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/OtherInstruments/PiLCTriggerGenerator/PiLCTriggerGenerator.pdf"
+            }
+        ], 
+        "families": [
+            "OtherInstruments"
+        ], 
+        "last_update": "2017-12-20 00:35:13.868511+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "PiLCTriggerGenerator", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/OtherInstruments/PiLCTriggerGenerator", 
+        "status": "updated", 
+        "tag": "Release_1_5", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1143/update/", 
+        "updated_by_script": true
+    }
+}
