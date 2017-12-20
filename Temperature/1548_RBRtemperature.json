@@ -1,0 +1,41 @@
+{
+    "1548": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "RBRtemperature"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1548/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 504, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Temperature/RBRtemperature/RBRtemperature.pdf"
+            }
+        ], 
+        "families": [
+            "Temperature"
+        ], 
+        "last_update": "2017-12-20 00:51:39.556420+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "RBRtemperature", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Temperature/RBRtemperature", 
+        "status": "updated", 
+        "tag": "V1_3", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1548/update/", 
+        "updated_by_script": true
+    }
+}
