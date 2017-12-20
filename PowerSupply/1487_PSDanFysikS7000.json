@@ -1,0 +1,33 @@
+{
+    "1487": {
+        "buses": [
+            "Profibus"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "PSDanfysikS7000"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1487/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "PowerSupply"
+        ], 
+        "last_update": "2017-12-20 00:38:40.425321+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "Phoenix Inline modular slave"
+        ], 
+        "name": "PSDanFysikS7000", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/PowerSupply/PSDanFysikS7000", 
+        "status": "updated", 
+        "tag": "release_0_9_6", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1487/update/", 
+        "updated_by_script": true
+    }
+}
