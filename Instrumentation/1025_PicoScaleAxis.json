@@ -1,0 +1,41 @@
+{
+    "1025": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "PicoScaleAxis"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1025/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 258, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/MeasureInstruments/PicoScaleAxis/PicoScaleAxis.pdf"
+            }
+        ], 
+        "families": [
+            "Instrumentation"
+        ], 
+        "last_update": "2017-01-28 04:22:22.795421+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "SmarAct"
+        ], 
+        "name": "PicoScaleAxis", 
+        "products": [
+            "http://www.smaract.de/index.php/products/picoscale"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/MeasureInstruments/PicoScaleAxis", 
+        "status": "updated", 
+        "tag": "Release_1_3", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1025/update/", 
+        "updated_by_script": true
+    }
+}
