@@ -1,0 +1,41 @@
+{
+    "1034": {
+        "buses": [
+            "USB"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "EcovarioServoMotor"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1034/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 268, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Motion/EcovarioServoMotor/EcovarioServoMotor.pdf"
+            }
+        ], 
+        "families": [
+            "Motion"
+        ], 
+        "last_update": "2017-01-28 04:27:51.690002+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "Jena Antriebstechnik"
+        ], 
+        "name": "EcovarioServoMotor", 
+        "products": [
+            "ECOVARIO"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/EcovarioServoMotor", 
+        "status": "updated", 
+        "tag": "Release_1_2", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1034/update/", 
+        "updated_by_script": true
+    }
+}
