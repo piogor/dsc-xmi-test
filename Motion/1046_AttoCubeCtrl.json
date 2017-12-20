@@ -1,0 +1,41 @@
+{
+    "1046": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "AttoCubeCtrl"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1046/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 284, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Motion/AttoCubeCtrl/AttoCubeCtrl.pdf"
+            }
+        ], 
+        "families": [
+            "Motion"
+        ], 
+        "last_update": "2017-01-28 04:32:52.912049+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "AttoCube"
+        ], 
+        "name": "AttoCubeCtrl", 
+        "products": [
+            "Positioner"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/MotorControllers/Attocube/AttoCubeCtrl", 
+        "status": "updated", 
+        "tag": "Release_1_10", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1046/update/", 
+        "updated_by_script": true
+    }
+}
