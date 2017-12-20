@@ -1,0 +1,41 @@
+{
+    "1163": {
+        "buses": [
+            "Tango"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "BiltCh"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1163/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 401, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/PowerSupply/BiltCh/BiltCh.pdf"
+            }
+        ], 
+        "families": [
+            "Miscellaneous"
+        ], 
+        "last_update": "2017-01-28 05:08:28.778368+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "itest"
+        ], 
+        "name": "BiltCh", 
+        "products": [
+            "Bilt Module BE548"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/PowerSupply/Itest/BiltCh", 
+        "status": "updated", 
+        "tag": "Release_1_8", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1163/update/", 
+        "updated_by_script": true
+    }
+}
