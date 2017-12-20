@@ -1,0 +1,41 @@
+{
+    "1174": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "CenterThreeCOM"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1174/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 417, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/SampleEnvironment/CenterThreeCOM/CenterThreeCOM.pdf"
+            }
+        ], 
+        "families": [
+            "SampleEnvironment"
+        ], 
+        "last_update": "2017-01-28 05:19:04.921964+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "Oerlikon Leybold Vacuum"
+        ], 
+        "name": "CenterThreeCOM", 
+        "products": [
+            "CenterThree"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/SampleEnvironment/CenterThreeCOM", 
+        "status": "updated", 
+        "tag": "Release_1_1", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1174/update/", 
+        "updated_by_script": true
+    }
+}
