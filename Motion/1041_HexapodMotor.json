@@ -1,0 +1,41 @@
+{
+    "1041": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "HexapodMotor"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1041/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 275, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Motion/HexapodMotor/HexapodMotor.pdf"
+            }
+        ], 
+        "families": [
+            "Motion"
+        ], 
+        "last_update": "2017-01-28 04:29:45.741057+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "HexapodMotor", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/Hexapods/HexapodMotor", 
+        "status": "updated", 
+        "tag": "Release_1_13", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1041/update/", 
+        "updated_by_script": true
+    }
+}
