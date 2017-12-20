@@ -1,0 +1,41 @@
+{
+    "1498": {
+        "buses": [
+            ""
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "CellCouette"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1498/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 415, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/SampleEnvironment/CellCouette/CellCouette.pdf"
+            }
+        ], 
+        "families": [
+            "SampleEnvironment"
+        ], 
+        "last_update": "2017-12-20 00:40:25.460800+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "CellCouette", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/SampleEnvironment/CellCouette", 
+        "status": "updated", 
+        "tag": "release_1_1_7", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1498/update/", 
+        "updated_by_script": true
+    }
+}
