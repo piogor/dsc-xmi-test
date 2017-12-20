@@ -1,0 +1,33 @@
+{
+    "1184": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "SimMotor"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1184/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Motion"
+        ], 
+        "last_update": "2017-01-28 05:26:38.847386+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "SimMotor", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Simulators/SimMotor", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1184/update/", 
+        "updated_by_script": true
+    }
+}
