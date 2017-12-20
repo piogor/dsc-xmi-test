@@ -1,0 +1,41 @@
+{
+    "1080": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "PiezoNV40Ctrl"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1080/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 316, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Motion/PiezoNV40Ctrl/PiezoNV40Ctrl.pdf"
+            }
+        ], 
+        "families": [
+            "Motion"
+        ], 
+        "last_update": "2017-01-28 04:41:36.792666+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "piezosystem jena GmbH"
+        ], 
+        "name": "PiezoNV40Ctrl", 
+        "products": [
+            "http://www.piezosystem.com/nanopositioning/piezo_controller/piezo_controller_3_channel_version/nv_403/"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/MotorControllers/PI/PiezoNV40Ctrl", 
+        "status": "updated", 
+        "tag": "Release_1_0", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1080/update/", 
+        "updated_by_script": true
+    }
+}
