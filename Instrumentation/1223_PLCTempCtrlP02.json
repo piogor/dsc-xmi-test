@@ -1,0 +1,41 @@
+{
+    "1223": {
+        "buses": [
+            "TCP/UDP"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "PLCTempCtrlP02"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1223/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 502, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Temperature/PLCTempCtrlP02/PLCTempCtrlP02.pdf"
+            }
+        ], 
+        "families": [
+            "Instrumentation"
+        ], 
+        "last_update": "2017-01-28 06:02:24.981840+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "PLCTempCtrlP02", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Temperature/PLCTempCtrlP02", 
+        "status": "updated", 
+        "tag": "Release_1_2", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1223/update/", 
+        "updated_by_script": true
+    }
+}
