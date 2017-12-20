@@ -1,0 +1,41 @@
+{
+    "1162": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Bilt"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1162/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 400, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/PowerSupply/Bilt/Bilt.pdf"
+            }
+        ], 
+        "families": [
+            "PowerSupply"
+        ], 
+        "last_update": "2017-01-28 05:08:16.972920+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "iTest"
+        ], 
+        "name": "Bilt", 
+        "products": [
+            "Module BE548"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/PowerSupply/Itest/Bilt", 
+        "status": "updated", 
+        "tag": "Release_3_11", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1162/update/", 
+        "updated_by_script": true
+    }
+}
