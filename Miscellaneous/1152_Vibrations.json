@@ -1,0 +1,41 @@
+{
+    "1152": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Vibrations"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1152/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 389, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/OtherInstruments/Vibrations/Vibrations.pdf"
+            }
+        ], 
+        "families": [
+            "Miscellaneous"
+        ], 
+        "last_update": "2017-01-28 05:01:46.279326+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "Vibrations", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/OtherInstruments/Vibrations", 
+        "status": "updated", 
+        "tag": "Release_1_4", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1152/update/", 
+        "updated_by_script": true
+    }
+}
