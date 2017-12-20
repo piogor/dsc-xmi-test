@@ -1,0 +1,41 @@
+{
+    "1074": {
+        "buses": [
+            "VME"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "OmsVme58"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1074/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 310, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Motion/OmsVme58/OmsVme58.pdf"
+            }
+        ], 
+        "families": [
+            "Motion"
+        ], 
+        "last_update": "2017-12-20 00:25:24.018453+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "OmsVme58", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/MotorControllers/OmsVme58", 
+        "status": "updated", 
+        "tag": "Release_1_67", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1074/update/", 
+        "updated_by_script": true
+    }
+}
