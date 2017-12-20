@@ -1,0 +1,38 @@
+{
+    "2409": {
+        "buses": [
+            "Serial Line", 
+            "Serial Line"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "MicroEpsilonILR118x", 
+            "DeviceSerial"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2409/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "MeasureInstruments", 
+            "AbstractClasses"
+        ], 
+        "last_update": "2017-12-20 00:16:55.389645+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "Micro-Epsilon", 
+            "none"
+        ], 
+        "name": "MicroEpsilonILR118x", 
+        "products": [
+            "ILR118x", 
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/MeasureInstruments/MicroEpsilonILR118x", 
+        "status": "updated", 
+        "tag": "Release_1_1", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2409/update/", 
+        "updated_by_script": true
+    }
+}
