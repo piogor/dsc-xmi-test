@@ -1,0 +1,41 @@
+{
+    "1496": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "GamMonResetManager"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1496/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 413, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/RadioProtection/GamMonResetManager/GamMonResetManager.pdf"
+            }
+        ], 
+        "families": [
+            "RadioProtection"
+        ], 
+        "last_update": "2017-12-20 00:40:10.348874+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "GamMonResetManager", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/RadioProtection/GamMonResetManager", 
+        "status": "updated", 
+        "tag": "release_1_1_8", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1496/update/", 
+        "updated_by_script": true
+    }
+}
