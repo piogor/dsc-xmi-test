@@ -1,0 +1,41 @@
+{
+    "964": {
+        "buses": [
+            "VME"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "V260"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/964/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 174, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/CounterTimer/V260/V260.pdf"
+            }
+        ], 
+        "families": [
+            "Instrumentation"
+        ], 
+        "last_update": "2017-12-20 00:04:43.265057+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "Caen"
+        ], 
+        "name": "V260", 
+        "products": [
+            "V260"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/CounterTimer/V260", 
+        "status": "updated", 
+        "tag": "Release_1_6", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/964/update/", 
+        "updated_by_script": true
+    }
+}
