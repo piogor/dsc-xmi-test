@@ -1,0 +1,41 @@
+{
+    "1447": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Keithley6221"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1447/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 245, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/MeasureInstruments/Keithley6221/Keithley6221.pdf"
+            }
+        ], 
+        "families": [
+            "MeasureInstruments"
+        ], 
+        "last_update": "2017-12-20 00:15:18.136940+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "Keithley"
+        ], 
+        "name": "Keithley6221", 
+        "products": [
+            "6221"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/MeasureInstruments/Keithley/Keithley6221", 
+        "status": "updated", 
+        "tag": "release_1_0_3", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1447/update/", 
+        "updated_by_script": true
+    }
+}
