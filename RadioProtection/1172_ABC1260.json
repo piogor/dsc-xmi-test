@@ -1,0 +1,41 @@
+{
+    "1172": {
+        "buses": [
+            "Serial Line"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "ABC1260"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1172/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 412, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/RadioProtection/ABC1260/ABC1260.pdf"
+            }
+        ], 
+        "families": [
+            "RadioProtection"
+        ], 
+        "last_update": "2017-01-28 05:16:18.055461+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "ABC1260", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/RadioProtection/ABC1260", 
+        "status": "updated", 
+        "tag": "release_1_1_3", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1172/update/", 
+        "updated_by_script": true
+    }
+}
