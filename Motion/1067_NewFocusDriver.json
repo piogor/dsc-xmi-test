@@ -1,0 +1,41 @@
+{
+    "1067": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "NewFocusDriver"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1067/", 
+        "development_status": "new", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 302, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Motion/NewFocusDriver/NewFocusDriver.pdf"
+            }
+        ], 
+        "families": [
+            "Motion"
+        ], 
+        "last_update": "2017-01-28 04:37:23.759430+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "NewFocus"
+        ], 
+        "name": "NewFocusDriver", 
+        "products": [
+            "Model8752"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/MotorControllers/NewFocus/NewFocusDriver", 
+        "status": "updated", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1067/update/", 
+        "updated_by_script": true
+    }
+}
