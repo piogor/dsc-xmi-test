@@ -1,0 +1,33 @@
+{
+    "2459": {
+        "buses": [
+            "USB"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "CAENN1471HV"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2459/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "PowerSupply"
+        ], 
+        "last_update": "2017-12-20 00:36:32.540981+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "CAEN"
+        ], 
+        "name": "CAENN1471HV", 
+        "products": [
+            "N1471"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/PowerSupply/CAENN1471HV", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2459/update/", 
+        "updated_by_script": true
+    }
+}
