@@ -1,0 +1,41 @@
+{
+    "1486": {
+        "buses": [
+            "Serial Line"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "NHQ_x0xx"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1486/", 
+        "development_status": "released", 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 405, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/PowerSupply/NHQ_x0xx/NHQ_x0xx.pdf"
+            }
+        ], 
+        "families": [
+            "PowerSupply"
+        ], 
+        "last_update": "2017-12-20 00:38:13.987423+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "NHQ"
+        ], 
+        "name": "NHQ_x0xx", 
+        "products": [
+            "x0xx"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/PowerSupply/NHQ_x0xx", 
+        "status": "updated", 
+        "tag": "release_2_1_0", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1486/update/", 
+        "updated_by_script": true
+    }
+}
