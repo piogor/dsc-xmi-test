@@ -21,7 +21,7 @@
         "families": [
             "Acquisition"
         ], 
-        "last_update": "2017-12-19 23:39:12.725011+00:00", 
+        "last_update": "2018-01-05 11:23:28.963473+00:00", 
         "last_update_method": "url", 
         "license": "None", 
         "manufacturers": [
@@ -33,8 +33,8 @@
         ], 
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/1D/Mythen2Detector", 
-        "status": "new", 
-        "tag": "release_1_2_0", 
+        "status": "updated", 
+        "tag": "release_1_2_1", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2252/update/", 
         "updated_by_script": true
     }
