@@ -9,11 +9,19 @@
         ], 
         "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/882/", 
         "development_status": "released", 
-        "documentation": [], 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 568, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/Acquisition/Mar345Ctrl/Mar345Ctrl.pdf"
+            }
+        ], 
         "families": [
             "Instrumentation"
         ], 
-        "last_update": "2017-01-19 09:52:05.049327+00:00", 
+        "last_update": "2018-01-05 11:24:02.363278+00:00", 
         "last_update_method": "url", 
         "license": "None", 
         "manufacturers": [
@@ -25,9 +33,9 @@
         ], 
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Acquisition/2D/Mar345Ctrl", 
-        "status": "new", 
-        "tag": "", 
+        "status": "updated", 
+        "tag": "Release_1_3", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/882/update/", 
-        "updated_by_script": false
+        "updated_by_script": true
     }
 }
