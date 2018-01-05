@@ -1,0 +1,33 @@
+{
+    "2576": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "LiberaBrilliancePlus"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2576/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "BeamDiag"
+        ], 
+        "last_update": "2018-01-05 14:46:59.462462+00:00", 
+        "last_update_method": "url", 
+        "license": "None", 
+        "manufacturers": [
+            "I-Tech"
+        ], 
+        "name": "LiberaBrilliancePlus", 
+        "products": [
+            "Libera Brilliance Plus"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "https://github.com/MaxIV-KitsControls/Libera-BrilliancePlus", 
+        "status": "new", 
+        "tag": "v1.2.1-alpha", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2576/update/", 
+        "updated_by_script": true
+    }
+}
