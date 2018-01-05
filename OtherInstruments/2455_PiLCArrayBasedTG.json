@@ -8,7 +8,7 @@
             "PiLCArrayBasedTG"
         ], 
         "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2455/", 
-        "development_status": "new", 
+        "development_status": "released", 
         "documentation": [
             {
                 "documentation_type": "Generated", 
@@ -21,7 +21,7 @@
         "families": [
             "OtherInstruments"
         ], 
-        "last_update": "2017-12-20 00:34:45.702698+00:00", 
+        "last_update": "2018-01-05 10:32:07.375125+00:00", 
         "last_update_method": "url", 
         "license": "GPL", 
         "manufacturers": [
@@ -33,8 +33,8 @@
         ], 
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/OtherInstruments/PiLCArrayBasedTG", 
-        "status": "new", 
-        "tag": "", 
+        "status": "updated", 
+        "tag": "Release_1_0", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2455/update/", 
         "updated_by_script": true
     }
