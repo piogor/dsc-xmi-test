@@ -21,7 +21,7 @@
         "families": [
             "Miscellaneous"
         ], 
-        "last_update": "2017-01-28 05:22:14.804750+00:00", 
+        "last_update": "2018-01-05 11:43:19.665345+00:00", 
         "last_update_method": "url", 
         "license": "None", 
         "manufacturers": [
@@ -34,7 +34,7 @@
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Security/Petra3ICS", 
         "status": "updated", 
-        "tag": "Release_1_13", 
+        "tag": "Release_2_3", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1181/update/", 
         "updated_by_script": true
     }
