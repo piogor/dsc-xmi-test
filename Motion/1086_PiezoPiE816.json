@@ -21,7 +21,7 @@
         "families": [
             "Motion"
         ], 
-        "last_update": "2017-01-28 04:43:08.963278+00:00", 
+        "last_update": "2018-01-05 11:41:20.698968+00:00", 
         "last_update_method": "url", 
         "license": "None", 
         "manufacturers": [
@@ -34,7 +34,7 @@
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/MotorControllers/PI/PiezoPiE816", 
         "status": "updated", 
-        "tag": "Release_1_4", 
+        "tag": "Release_1_5", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1086/update/", 
         "updated_by_script": true
     }
