@@ -21,7 +21,7 @@
         "families": [
             "InputOutput"
         ], 
-        "last_update": "2017-01-28 04:00:16.821795+00:00", 
+        "last_update": "2018-01-05 11:39:04.127056+00:00", 
         "last_update_method": "url", 
         "license": "None", 
         "manufacturers": [
@@ -34,7 +34,7 @@
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/InputOutput/TIP850u10", 
         "status": "updated", 
-        "tag": "Release_1_5", 
+        "tag": "Release_1_6", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/982/update/", 
         "updated_by_script": true
     }
