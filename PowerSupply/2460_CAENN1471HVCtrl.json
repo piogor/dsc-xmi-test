@@ -9,11 +9,19 @@
         ], 
         "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2460/", 
         "development_status": "new", 
-        "documentation": [], 
+        "documentation": [
+            {
+                "documentation_type": "Generated", 
+                "pk": 567, 
+                "title": "PDF generated from POGO", 
+                "updated_by_script": true, 
+                "url": "http://www.esrf.eu/computing/cs/tango/tango_doc/ds_doc/tango-ds/PowerSupply/CAENN1471HVCtrl/CAENN1471HVCtrl.pdf"
+            }
+        ], 
         "families": [
             "PowerSupply"
         ], 
-        "last_update": "2017-12-20 00:36:38.569360+00:00", 
+        "last_update": "2018-01-05 10:32:25.773765+00:00", 
         "last_update_method": "url", 
         "license": "GPL", 
         "manufacturers": [
@@ -25,7 +33,7 @@
         ], 
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/PowerSupply/CAENN1471HVCtrl", 
-        "status": "new", 
+        "status": "updated", 
         "tag": "", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2460/update/", 
         "updated_by_script": true
