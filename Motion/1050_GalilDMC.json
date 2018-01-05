@@ -1,42 +1,32 @@
 {
     "1050": {
         "buses": [
-            "Ethernet", 
-            "Ethernet", 
             "Ethernet"
         ], 
         "certified": "False", 
         "class_names": [
-            "GalilDMCControl", 
-            "GalilDMCMotor", 
-            "GalilDMCPort"
+            "GalilDMCControl"
         ], 
         "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1050/", 
         "development_status": "released", 
         "documentation": [], 
         "families": [
-            "Motion", 
-            "Motion", 
             "Motion"
         ], 
-        "last_update": "2017-01-28 04:34:28.236712+00:00", 
+        "last_update": "2018-01-05 10:30:41.855250+00:00", 
         "last_update_method": "url", 
         "license": "None", 
         "manufacturers": [
-            "Galil", 
-            "Galil", 
             "Galil"
         ], 
         "name": "GalilDMC", 
         "products": [
-            "DMC-40x0 Series", 
-            "DMC 40x0 Series", 
-            "DMC 40x0 Series"
+            "DMC-40x0 Series"
         ], 
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/MotorControllers/GalilDMC", 
         "status": "updated", 
-        "tag": "Release_1_2", 
+        "tag": "Release_1_3", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1050/update/", 
         "updated_by_script": true
     }
