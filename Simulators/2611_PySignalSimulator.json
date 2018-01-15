@@ -1,0 +1,33 @@
+{
+    "2611": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "PySignalSimulator"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2611/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Simulators"
+        ], 
+        "last_update": "2018-01-15 21:53:16.439932+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "PySignalSimulator", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Simulators/PySignalSimulator", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2611/update/", 
+        "updated_by_script": true
+    }
+}
