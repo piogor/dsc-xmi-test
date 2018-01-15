@@ -1,0 +1,33 @@
+{
+    "2585": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "BakeOutControlDS"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2585/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Vacuum"
+        ], 
+        "last_update": "2018-01-15 16:05:29.774601+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "BakeOutControlDS", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Vacuum/BakeOutControlDS", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2585/update/", 
+        "updated_by_script": true
+    }
+}
