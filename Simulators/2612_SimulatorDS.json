@@ -1,0 +1,33 @@
+{
+    "2612": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "SimulatorDS"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2612/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Simulators"
+        ], 
+        "last_update": "2018-01-15 21:54:04.341258+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "SimulatorDS", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Simulators/SimulatorDS", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2612/update/", 
+        "updated_by_script": true
+    }
+}
