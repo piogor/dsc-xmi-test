@@ -1,0 +1,33 @@
+{
+    "2609": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "FestivalDS"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2609/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "InputOutput"
+        ], 
+        "last_update": "2018-01-15 21:46:37.536118+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "FestivalDS", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/InputOutput/FestivalDS", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2609/update/", 
+        "updated_by_script": true
+    }
+}
