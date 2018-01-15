@@ -1,0 +1,33 @@
+{
+    "2614": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "CryoConTempMonitor"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2614/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Temperature"
+        ], 
+        "last_update": "2018-01-15 21:55:46.581169+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "CryoConTempMonitor", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Temperature/CryoConTempMonitor", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2614/update/", 
+        "updated_by_script": true
+    }
+}
