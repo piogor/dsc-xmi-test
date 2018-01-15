@@ -1,0 +1,33 @@
+{
+    "2599": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "PyLinkam"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2599/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "SampleEnvironment"
+        ], 
+        "last_update": "2018-01-15 16:54:03.417138+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "PyLinkam", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/SampleEnvironment/PyLinkam", 
+        "status": "new", 
+        "tag": "2.0", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2599/update/", 
+        "updated_by_script": true
+    }
+}
