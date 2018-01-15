@@ -1,0 +1,33 @@
+{
+    "2587": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "MVC3GaugeController"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2587/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "Vacuum"
+        ], 
+        "last_update": "2018-01-15 16:14:47.722734+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "MVC3GaugeController", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Vacuum/MVC3GaugeController", 
+        "status": "new", 
+        "tag": "release_3_13", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2587/update/", 
+        "updated_by_script": true
+    }
+}
