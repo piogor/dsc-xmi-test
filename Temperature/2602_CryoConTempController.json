@@ -1,0 +1,33 @@
+{
+    "2602": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "CryoConTempController"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2602/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "Temperature"
+        ], 
+        "last_update": "2018-01-15 16:54:57.299664+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "CryoConTempController", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Temperature/CryoConTempController", 
+        "status": "new", 
+        "tag": "Release_1_1", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2602/update/", 
+        "updated_by_script": true
+    }
+}
