@@ -1,0 +1,33 @@
+{
+    "2592": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "BPMOrbitDD"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2592/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "BeamDiagnostics"
+        ], 
+        "last_update": "2018-01-15 16:49:22.647521+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "BPMOrbitDD", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/BeamDiagnostics/BPMOrbitDD", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2592/update/", 
+        "updated_by_script": true
+    }
+}
