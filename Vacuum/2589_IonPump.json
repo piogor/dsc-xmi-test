@@ -1,0 +1,33 @@
+{
+    "2589": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "IonPump"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2589/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Vacuum"
+        ], 
+        "last_update": "2018-01-15 16:28:23.488117+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "IonPump", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Vacuum/IonPump", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2589/update/", 
+        "updated_by_script": true
+    }
+}
