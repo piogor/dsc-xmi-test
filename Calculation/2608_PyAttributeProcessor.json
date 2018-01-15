@@ -1,0 +1,33 @@
+{
+    "2608": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "PyAttributeProcessor"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2608/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Calculation"
+        ], 
+        "last_update": "2018-01-15 21:44:32.304980+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "PyAttributeProcessor", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Calculation/PyAttributeProcessor", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2608/update/", 
+        "updated_by_script": true
+    }
+}
