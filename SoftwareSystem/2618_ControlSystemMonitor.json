@@ -1,0 +1,33 @@
+{
+    "2618": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "ControlSystemMonitor"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2618/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "SoftwareSystem"
+        ], 
+        "last_update": "2018-01-17 10:28:14.375024+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "ControlSystemMonitor", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/SoftwareSystem/ControlSystemMonitor", 
+        "status": "new", 
+        "tag": "ControlSystemMonitor-1.0.0", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2618/update/", 
+        "updated_by_script": true
+    }
+}
