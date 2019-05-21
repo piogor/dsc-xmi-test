@@ -1,0 +1,33 @@
+{
+    "2856": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "SSKRPI"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2856/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "OtherInstruments"
+        ], 
+        "last_update": "2019-05-21 16:04:48.467685+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "SSKRPI", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/OtherInstruments/SSKRPI", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2856/update/", 
+        "updated_by_script": true
+    }
+}
