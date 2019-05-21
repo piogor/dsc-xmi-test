@@ -1,0 +1,33 @@
+{
+    "2843": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "MotorEncControlledP04"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2843/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Motion"
+        ], 
+        "last_update": "2019-05-21 16:02:32.046047+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "MotorEncControlledP04", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/MotorEncControlledP04", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2843/update/", 
+        "updated_by_script": true
+    }
+}
