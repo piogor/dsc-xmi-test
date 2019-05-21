@@ -1,0 +1,33 @@
+{
+    "2848": {
+        "buses": [
+            "Serial Line"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "HPLCPump"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2848/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "OtherInstruments"
+        ], 
+        "last_update": "2019-05-21 16:03:24.519405+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "Scientific Systems, Inc. (SSI)"
+        ], 
+        "name": "HPLCPump", 
+        "products": [
+            "https://ssihplc.com/product-category/hplc-pumps/ld-class/"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/OtherInstruments/HPLCPump", 
+        "status": "new", 
+        "tag": "Release_1_3", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2848/update/", 
+        "updated_by_script": true
+    }
+}
