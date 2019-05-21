@@ -1,0 +1,33 @@
+{
+    "2873": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "PiLCPTSensor"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2873/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Temperature"
+        ], 
+        "last_update": "2019-05-21 16:08:56.160657+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "none"
+        ], 
+        "name": "PiLCPTSensor", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Temperature/PiLCPTSensor", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2873/update/", 
+        "updated_by_script": true
+    }
+}
