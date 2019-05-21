@@ -1,0 +1,33 @@
+{
+    "2863": {
+        "buses": [
+            "Socket"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "TDKLambdaGenesys"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2863/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "PowerSupply"
+        ], 
+        "last_update": "2019-05-21 16:06:15.530140+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "TDK-Lambda Americas Inc."
+        ], 
+        "name": "TDKLambdaGenesys", 
+        "products": [
+            "Genesys"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/PowerSupply/TDKLambdaGenesys", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2863/update/", 
+        "updated_by_script": true
+    }
+}
