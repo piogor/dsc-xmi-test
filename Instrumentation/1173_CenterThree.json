@@ -21,7 +21,7 @@
         "families": [
             "Instrumentation"
         ], 
-        "last_update": "2017-01-28 05:18:54.004863+00:00", 
+        "last_update": "2019-05-21 16:06:31.963733+00:00", 
         "last_update_method": "url", 
         "license": "None", 
         "manufacturers": [
@@ -34,7 +34,7 @@
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/SampleEnvironment/CenterThree", 
         "status": "updated", 
-        "tag": "Release_1_5", 
+        "tag": "Release_1_9", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1173/update/", 
         "updated_by_script": true
     }
