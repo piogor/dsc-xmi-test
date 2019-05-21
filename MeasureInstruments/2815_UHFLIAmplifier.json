@@ -1,0 +1,33 @@
+{
+    "2815": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "UHFLIAmplifier"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2815/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "MeasureInstruments"
+        ], 
+        "last_update": "2019-05-21 15:58:06.666110+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "Zurich Instruments"
+        ], 
+        "name": "UHFLIAmplifier", 
+        "products": [
+            "UHFLI Lock-in amplifier"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/MeasureInstruments/UHFLIAmplifier", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2815/update/", 
+        "updated_by_script": true
+    }
+}
