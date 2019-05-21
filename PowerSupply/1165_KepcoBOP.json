@@ -8,7 +8,7 @@
             "KepcoBOP"
         ], 
         "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1165/", 
-        "development_status": "new", 
+        "development_status": "released", 
         "documentation": [
             {
                 "documentation_type": "Generated", 
@@ -21,7 +21,7 @@
         "families": [
             "PowerSupply"
         ], 
-        "last_update": "2017-01-28 05:09:46.500848+00:00", 
+        "last_update": "2019-05-21 16:06:03.421672+00:00", 
         "last_update_method": "url", 
         "license": "GPL", 
         "manufacturers": [
@@ -34,7 +34,7 @@
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/PowerSupply/KepcoBOP", 
         "status": "updated", 
-        "tag": "", 
+        "tag": "release_1_0_0", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1165/update/", 
         "updated_by_script": true
     }
