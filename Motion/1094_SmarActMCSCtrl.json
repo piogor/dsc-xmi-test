@@ -21,7 +21,7 @@
         "families": [
             "Motion"
         ], 
-        "last_update": "2018-01-05 11:41:37.311525+00:00", 
+        "last_update": "2019-05-21 16:01:57.787196+00:00", 
         "last_update_method": "url", 
         "license": "GPL", 
         "manufacturers": [
@@ -34,7 +34,7 @@
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/MotorControllers/Smaract/SmarActMCSCtrl", 
         "status": "updated", 
-        "tag": "Release_1_1", 
+        "tag": "Release_1_3", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1094/update/", 
         "updated_by_script": true
     }
