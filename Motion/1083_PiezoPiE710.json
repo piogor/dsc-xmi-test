@@ -21,7 +21,7 @@
         "families": [
             "Motion"
         ], 
-        "last_update": "2017-01-28 04:42:22.992142+00:00", 
+        "last_update": "2019-05-21 16:01:33.816666+00:00", 
         "last_update_method": "url", 
         "license": "None", 
         "manufacturers": [
@@ -34,7 +34,7 @@
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/MotorControllers/PI/PiezoPiE710", 
         "status": "updated", 
-        "tag": "Release_1_7", 
+        "tag": "Release_1_8", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1083/update/", 
         "updated_by_script": true
     }
