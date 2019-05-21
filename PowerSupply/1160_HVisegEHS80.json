@@ -21,9 +21,9 @@
         "families": [
             "PowerSupply"
         ], 
-        "last_update": "2017-01-28 05:06:55.855823+00:00", 
+        "last_update": "2019-05-21 16:05:36.141983+00:00", 
         "last_update_method": "url", 
-        "license": "None", 
+        "license": "GPL", 
         "manufacturers": [
             "iseg"
         ], 
@@ -34,7 +34,7 @@
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/PowerSupply/HVisegEHS80", 
         "status": "updated", 
-        "tag": "Release_1_7", 
+        "tag": "Release_1_9", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1160/update/", 
         "updated_by_script": true
     }
