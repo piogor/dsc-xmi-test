@@ -21,7 +21,7 @@
         "families": [
             "Motion"
         ], 
-        "last_update": "2017-12-20 00:25:24.018453+00:00", 
+        "last_update": "2019-05-21 16:00:42.567181+00:00", 
         "last_update_method": "url", 
         "license": "None", 
         "manufacturers": [
@@ -34,7 +34,7 @@
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/MotorControllers/OmsVme58", 
         "status": "updated", 
-        "tag": "Release_1_67", 
+        "tag": "Release_1_70", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1074/update/", 
         "updated_by_script": true
     }
