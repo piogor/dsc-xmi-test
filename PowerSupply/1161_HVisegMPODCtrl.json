@@ -21,9 +21,9 @@
         "families": [
             "PowerSupply"
         ], 
-        "last_update": "2017-01-28 05:07:06.828374+00:00", 
+        "last_update": "2019-05-21 16:05:47.598029+00:00", 
         "last_update_method": "url", 
-        "license": "None", 
+        "license": "GPL", 
         "manufacturers": [
             "Iseg"
         ], 
@@ -34,7 +34,7 @@
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/PowerSupply/HVisegMPODCtrl", 
         "status": "updated", 
-        "tag": "Release_1_4", 
+        "tag": "Release_1_5", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1161/update/", 
         "updated_by_script": true
     }
