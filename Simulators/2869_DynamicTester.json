@@ -1,0 +1,33 @@
+{
+    "2869": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "DynamicTester"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2869/", 
+        "development_status": "released", 
+        "documentation": [], 
+        "families": [
+            "Simulators"
+        ], 
+        "last_update": "2019-05-21 16:07:16.759258+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "DynamicTester", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Simulators/DynamicTester", 
+        "status": "new", 
+        "tag": "DynamicTester-0.0.2", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2869/update/", 
+        "updated_by_script": true
+    }
+}
