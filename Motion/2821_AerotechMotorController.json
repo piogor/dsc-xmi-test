@@ -1,0 +1,33 @@
+{
+    "2821": {
+        "buses": [
+            "Not Applicable"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "ATMotorController"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2821/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Motion"
+        ], 
+        "last_update": "2019-05-21 15:58:59.267583+00:00", 
+        "last_update_method": "url", 
+        "license": "GPL", 
+        "manufacturers": [
+            "Aerotech"
+        ], 
+        "name": "AerotechMotorController", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/MotorControllers/AerotechMotorController", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2821/update/", 
+        "updated_by_script": true
+    }
+}
