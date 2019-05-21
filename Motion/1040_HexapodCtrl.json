@@ -21,7 +21,7 @@
         "families": [
             "Motion"
         ], 
-        "last_update": "2018-01-05 11:40:30.611266+00:00", 
+        "last_update": "2019-05-21 15:58:41.061456+00:00", 
         "last_update_method": "url", 
         "license": "None", 
         "manufacturers": [
@@ -34,7 +34,7 @@
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/Hexapods/HexapodCtrl", 
         "status": "updated", 
-        "tag": "Release_1_8", 
+        "tag": "Release_1_10", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1040/update/", 
         "updated_by_script": true
     }
