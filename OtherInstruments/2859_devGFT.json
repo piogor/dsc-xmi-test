@@ -1,0 +1,33 @@
+{
+    "2859": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "devGFT"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2859/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "OtherInstruments"
+        ], 
+        "last_update": "2019-05-21 16:05:13.419833+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "devGFT", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/OtherInstruments/devGFT", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2859/update/", 
+        "updated_by_script": true
+    }
+}
