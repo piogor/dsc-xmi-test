@@ -21,7 +21,7 @@
         "families": [
             "Motion"
         ], 
-        "last_update": "2017-01-28 04:36:28.963160+00:00", 
+        "last_update": "2019-05-21 16:00:09.670187+00:00", 
         "last_update_method": "url", 
         "license": "None", 
         "manufacturers": [
@@ -34,7 +34,7 @@
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/MotorControllers/Micos/SMCHydraMotor", 
         "status": "updated", 
-        "tag": "Release_1_14", 
+        "tag": "Release_1_18", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1062/update/", 
         "updated_by_script": true
     }
