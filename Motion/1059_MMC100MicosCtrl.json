@@ -1,12 +1,10 @@
 {
     "1059": {
         "buses": [
-            "Not Applicable", 
             "Not Applicable"
         ], 
         "certified": "False", 
         "class_names": [
-            "MMC100MicosCtrl", 
             "MMC100MicosCtrl"
         ], 
         "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1059/", 
@@ -21,25 +19,22 @@
             }
         ], 
         "families": [
-            "Motion", 
             "Motion"
         ], 
-        "last_update": "2017-01-28 04:36:05.978594+00:00", 
+        "last_update": "2019-05-21 15:59:59.723666+00:00", 
         "last_update_method": "url", 
         "license": "None", 
         "manufacturers": [
-            "Micos", 
             "Micos"
         ], 
         "name": "MMC100MicosCtrl", 
         "products": [
-            "MMC-100", 
             "MMC-100"
         ], 
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/MotorControllers/Micos/MMC100MicosCtrl", 
         "status": "updated", 
-        "tag": "Release_1_6", 
+        "tag": "Release_1_7", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1059/update/", 
         "updated_by_script": true
     }
