@@ -21,20 +21,20 @@
         "families": [
             "Motion"
         ], 
-        "last_update": "2017-01-28 04:35:50.802049+00:00", 
+        "last_update": "2019-05-21 15:59:53.214217+00:00", 
         "last_update_method": "url", 
-        "license": "None", 
+        "license": "GPL", 
         "manufacturers": [
-            "Micos"
+            "http://www.micronixusa.com"
         ], 
         "name": "MMC100MicosAxis", 
         "products": [
-            "MMC-100"
+            "http://www.micronixusa.com/motion/product/prodDetail.cfm?firstlevel=2&sublevel=22&prodid=69"
         ], 
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/MotorControllers/Micos/MMC100MicosAxis", 
         "status": "updated", 
-        "tag": "Release_1_5", 
+        "tag": "Release_1_6", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1058/update/", 
         "updated_by_script": true
     }
