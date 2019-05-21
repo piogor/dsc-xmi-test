@@ -8,7 +8,7 @@
             "NewFocusPico8742"
         ], 
         "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1068/", 
-        "development_status": "new", 
+        "development_status": "released", 
         "documentation": [
             {
                 "documentation_type": "Generated", 
@@ -21,7 +21,7 @@
         "families": [
             "Motion"
         ], 
-        "last_update": "2017-01-28 04:37:35.087943+00:00", 
+        "last_update": "2019-05-21 16:00:19.517670+00:00", 
         "last_update_method": "url", 
         "license": "GPL", 
         "manufacturers": [
@@ -34,7 +34,7 @@
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/Motion/MotorControllers/NewFocus/NewFocusPico8742", 
         "status": "updated", 
-        "tag": "", 
+        "tag": "Release_1_1", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1068/update/", 
         "updated_by_script": true
     }
