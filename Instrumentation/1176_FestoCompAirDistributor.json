@@ -21,7 +21,7 @@
         "families": [
             "Instrumentation"
         ], 
-        "last_update": "2017-01-28 05:19:27.831590+00:00", 
+        "last_update": "2019-05-21 16:06:39.713048+00:00", 
         "last_update_method": "url", 
         "license": "None", 
         "manufacturers": [
@@ -34,7 +34,7 @@
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/SampleEnvironment/FestoCompAirDistributor", 
         "status": "updated", 
-        "tag": "Release_1_1", 
+        "tag": "Release_1_2", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1176/update/", 
         "updated_by_script": true
     }
