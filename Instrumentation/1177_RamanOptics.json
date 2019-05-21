@@ -1,12 +1,10 @@
 {
     "1177": {
         "buses": [
-            "Ethernet", 
             "Ethernet"
         ], 
         "certified": "False", 
         "class_names": [
-            "RamanOptics", 
             "RamanOptics"
         ], 
         "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1177/", 
@@ -21,25 +19,22 @@
             }
         ], 
         "families": [
-            "Instrumentation", 
             "Instrumentation"
         ], 
-        "last_update": "2018-01-05 11:43:12.593849+00:00", 
+        "last_update": "2019-05-21 16:06:55.623341+00:00", 
         "last_update_method": "url", 
         "license": "GPL", 
         "manufacturers": [
-            "Fento", 
             "Fento"
         ], 
         "name": "RamanOptics", 
         "products": [
-            "Ventil", 
             "Ventil"
         ], 
         "repository_contact_email": "", 
         "repository_url": "http://svn.code.sf.net/p/tango-ds/code/DeviceClasses/SampleEnvironment/RamanOptics", 
         "status": "updated", 
-        "tag": "Release_1_0", 
+        "tag": "Release_1_1", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/1177/update/", 
         "updated_by_script": true
     }
