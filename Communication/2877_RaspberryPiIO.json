@@ -1,0 +1,33 @@
+{
+    "2877": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "RaspberryPiIO"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2877/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Communication"
+        ], 
+        "last_update": "2019-05-29 14:24:54.529353+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "RaspberryPiIO", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "piotr.goryl@s2innovation.com", 
+        "repository_url": "", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2877/update/", 
+        "updated_by_script": false
+    }
+}
