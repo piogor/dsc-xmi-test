@@ -1,0 +1,33 @@
+{
+    "2878": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Eiger"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2878/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Communication"
+        ], 
+        "last_update": "2019-05-29 14:48:24.310004+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "Eiger", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "pg@pg.com", 
+        "repository_url": "", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2878/update/", 
+        "updated_by_script": false
+    }
+}
