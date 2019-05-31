@@ -13,7 +13,7 @@
         "families": [
             "Vacuum"
         ], 
-        "last_update": "2019-05-31 07:56:59.283828+00:00", 
+        "last_update": "2019-05-31 08:59:56.132857+00:00", 
         "last_update_method": "file", 
         "license": "None", 
         "manufacturers": [
@@ -25,7 +25,7 @@
         ], 
         "repository_contact_email": "", 
         "repository_url": "https://gitlab.maxiv.lu.se/ext-piogor/dev-maxiv-gammaspce", 
-        "status": "new", 
+        "status": "updated", 
         "tag": "", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2879/update/", 
         "updated_by_script": true
