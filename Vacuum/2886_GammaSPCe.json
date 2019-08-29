@@ -1,0 +1,33 @@
+{
+    "2886": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "GammaSPCe"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2886/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Vacuum"
+        ], 
+        "last_update": "2019-08-29 17:24:44.496017+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "GammaSPCe", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "https://gitlab.maxiv.lu.se/ext-piogor/dev-maxiv-gammaspce", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2886/update/", 
+        "updated_by_script": true
+    }
+}
