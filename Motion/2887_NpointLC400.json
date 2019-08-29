@@ -1,0 +1,33 @@
+{
+    "2887": {
+        "buses": [
+            "USB"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "NpointLC400"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2887/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Motion"
+        ], 
+        "last_update": "2019-08-29 19:12:31.244146+00:00", 
+        "last_update_method": "file", 
+        "license": "GPL", 
+        "manufacturers": [
+            "npoint"
+        ], 
+        "name": "NpointLC400", 
+        "products": [
+            "lc400"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "https://gitlab.maxiv.lu.se/ext-piogor/dev-maxiv-npoint-lc400", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2887/update/", 
+        "updated_by_script": true
+    }
+}
