@@ -1,0 +1,33 @@
+{
+    "2884": {
+        "buses": [
+            "Ethernet"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Itest2811Controller"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2884/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "PowerSupply"
+        ], 
+        "last_update": "2019-08-29 16:01:32.556260+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "ITEST"
+        ], 
+        "name": "Itest2811", 
+        "products": [
+            "2811"
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "https://gitlab.maxiv.lu.se/ext-piogor/dev-maxiv-itest", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2884/update/", 
+        "updated_by_script": true
+    }
+}
