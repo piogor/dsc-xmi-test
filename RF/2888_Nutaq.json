@@ -1,0 +1,33 @@
+{
+    "2888": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "Nutaq"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2888/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "RF"
+        ], 
+        "last_update": "2019-08-29 19:39:38.248932+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "Nutaq", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "https://gitlab.maxiv.lu.se/ext-piogor/dev-maxiv-pynutaq", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2888/update/", 
+        "updated_by_script": true
+    }
+}
