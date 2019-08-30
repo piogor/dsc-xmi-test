@@ -13,7 +13,7 @@
         "families": [
             "RF"
         ], 
-        "last_update": "2019-08-30 07:15:46.362271+00:00", 
+        "last_update": "2019-08-30 13:54:11.503127+00:00", 
         "last_update_method": "file", 
         "license": "None", 
         "manufacturers": [
@@ -25,7 +25,7 @@
         ], 
         "repository_contact_email": "", 
         "repository_url": "https://gitlab.maxiv.lu.se/ext-piogor/dev-maxiv-pynutaq", 
-        "status": "new", 
+        "status": "updated", 
         "tag": "", 
         "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2891/update/", 
         "updated_by_script": true
