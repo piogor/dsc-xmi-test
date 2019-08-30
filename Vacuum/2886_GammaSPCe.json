@@ -1,7 +1,7 @@
 {
     "2886": {
         "buses": [
-            null
+            ""
         ], 
         "certified": "False", 
         "class_names": [
@@ -13,9 +13,9 @@
         "families": [
             "Vacuum"
         ], 
-        "last_update": "2019-08-30 16:35:31.734476+00:00", 
+        "last_update": "2019-08-30 17:22:20.244390+00:00", 
         "last_update_method": "file", 
-        "license": "None", 
+        "license": "", 
         "manufacturers": [
             ""
         ], 
