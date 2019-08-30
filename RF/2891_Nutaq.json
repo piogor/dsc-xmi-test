@@ -1,31 +1,26 @@
 {
     "2891": {
         "buses": [
-            null, 
             null
         ], 
         "certified": "False", 
         "class_names": [
-            "NutaqDiags", 
             "Nutaq"
         ], 
         "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2891/", 
         "development_status": "new", 
         "documentation": [], 
         "families": [
-            "RF", 
             "RF"
         ], 
-        "last_update": "2019-08-30 14:33:47.932649+00:00", 
+        "last_update": "2019-08-30 16:32:06.651949+00:00", 
         "last_update_method": "file", 
         "license": "None", 
         "manufacturers": [
-            "", 
             ""
         ], 
         "name": "Nutaq", 
         "products": [
-            "", 
             ""
         ], 
         "repository_contact_email": "", 
