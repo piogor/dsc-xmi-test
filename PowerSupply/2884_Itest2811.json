@@ -1,26 +1,31 @@
 {
     "2884": {
         "buses": [
+            "Ethernet", 
             "Ethernet"
         ], 
         "certified": "False", 
         "class_names": [
+            "Itest2811Channel", 
             "Itest2811Controller"
         ], 
         "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2884/", 
         "development_status": "new", 
         "documentation": [], 
         "families": [
+            "PowerSupply", 
             "PowerSupply"
         ], 
-        "last_update": "2019-08-30 15:02:56.131236+00:00", 
+        "last_update": "2019-08-30 15:03:01.054344+00:00", 
         "last_update_method": "file", 
         "license": "None", 
         "manufacturers": [
+            "ITEST", 
             "ITEST"
         ], 
         "name": "Itest2811", 
         "products": [
+            "Bilt Module 2811", 
             "2811"
         ], 
         "repository_contact_email": "", 
