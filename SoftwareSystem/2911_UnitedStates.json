@@ -1,0 +1,33 @@
+{
+    "2911": {
+        "buses": [
+            null
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "UnitedStates"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2911/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "SoftwareSystem"
+        ], 
+        "last_update": "2019-08-31 09:30:10.362216+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            ""
+        ], 
+        "name": "UnitedStates", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "https://gitlab.maxiv.lu.se/ext-piogor/dev-maxiv-unitedstates", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2911/update/", 
+        "updated_by_script": true
+    }
+}
