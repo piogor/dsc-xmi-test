@@ -1,0 +1,33 @@
+{
+    "2916": {
+        "buses": [
+            "Serial Line"
+        ], 
+        "certified": "False", 
+        "class_names": [
+            "BalzersGauge"
+        ], 
+        "detail_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2916/", 
+        "development_status": "new", 
+        "documentation": [], 
+        "families": [
+            "Vacuum"
+        ], 
+        "last_update": "2019-10-23 10:51:58.510398+00:00", 
+        "last_update_method": "file", 
+        "license": "None", 
+        "manufacturers": [
+            "Balzers"
+        ], 
+        "name": "BalzersGauge", 
+        "products": [
+            ""
+        ], 
+        "repository_contact_email": "", 
+        "repository_url": "https://gitlab.com/s2innovation/balzersgauge", 
+        "status": "new", 
+        "tag": "", 
+        "update_url": "https://dsc-test.modelowanie.pl/resources/dsc/ds/2916/update/", 
+        "updated_by_script": true
+    }
+}
